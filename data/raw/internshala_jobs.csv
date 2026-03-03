@@ -1,0 +1,832 @@
+title,company,location,stipend,date_posted,skills,job_type,search_role,source
+Data Scientist,Scientific Games,Work from home,"₹ 8,00,000 - 24,00,000",2026-03-03,"Python, SQL, Data Analytics, Machine Learning, Data Science, Natural Language Processing (NLP), Deep Learning",Job,python,internshala
+Senior Full Stack Developer,Cite Works Studio,Pune,"₹ 20,00,000 - 25,00,000",2026-02-17,"Python, SQL, Git, Django, PostgreSQL, Frontend development, APIs",Job,python,internshala
+Artificial Intelligence (AI) Trainee,Unisource Trading India Private Limited,"Gurgaon, Delhi","₹ 10,50,000 - 15,00,000",2026-02-24,"Python, Data Structures",Job,python,internshala
+ML/AI Developer,Samur-AI,Goa Velha,"₹ 10,00,000 - 20,00,000",2026-02-10,"Python, Data Structures, FastAPI, Model fine-tuning",Job,python,internshala
+Implementation Specialist,Base.com,Bangalore,"₹ 10,00,000 - 20,00,000",2026-02-10,"PHP, MySQL, HTML, JavaScript, Python, Git, REST API",Job,python,internshala
+Cyber Security Specialist,"Alsatronix (Dubai, United Arab Emirates)",Work from home,"₹ 9,00,000 - 18,00,000",2026-02-24,"Python, Computer Networking, Linux, Ethical Hacking, VAPT, Web Application Security",Job,python,internshala
+Enterprise Voice Agent & Telephony Solutions Engineer,"Alsatronix (Dubai, United Arab Emirates)",Work from home,"₹ 9,00,000 - 18,00,000",2026-02-24,"DNS, Python, Client Relationship Management (CRM), Docker, Microsoft Azure, REST API, OpenAI API",Job,python,internshala
+Associate Data Scientist,Zulitech Solution,Work from home,"₹ 9,00,000 - 12,00,000",2026-03-03,"Python, Data Analytics, Data Science",Job,python,internshala
+Artificial Intelligence (AI) Specialist,Bryckel AI,Work from home,"₹ 9,00,000",2026-02-17,"Python, Artificial intelligence, FastAPI, Claude, Gemini, Amazon EC2, Amazon RDS",Job,python,internshala
+Senior Software Developer,Presolv360,Mumbai,"₹ 8,00,000 - 10,00,000",2026-03-02,"Java, JavaScript, Python, AWS CloudFormation",Job,python,internshala
+Software Developer - Backend,Shipthis Inc,Bangalore,"₹ 8,00,000 - 9,00,000",2026-02-10,"Python, FastAPI",Job,python,internshala
+Artificial Intelligence (AI) Manager,RS Infomedia And Films Private Limited,Delhi,"₹ 7,00,000 - 14,00,000",2026-03-03,"Leadership, Team Management, Python, Data Structures, Client Interaction, Machine Learning, Client Relationship Management (CRM)",Job,python,internshala
+SD-1,Wokelo AI,Work from home,"₹ 7,00,000 - 10,00,000",2026-02-17,"Python, Django, API, Natural Language Processing (NLP)",Job,python,internshala
+Software Engineer - Generative AI,Newtuple Technologies Private Limited,Pune,"₹ 7,00,000",2026-03-03,"Cloud Computing, Python, Golang, Database Management System (DBMS), Effective Communication, Software Development Life Cycle (SDLC), Generative AI Development",Job,python,internshala
+Data Analytics Trainee,Tech4NexGen Business Solution,Work from home,"₹ 6,50,000 - 13,00,000",2026-03-03,"Python, SQL, Data Analytics, Advanced Excel, Power BI, Tableau",Job,python,internshala
+Computer Vision Engineer,ClearQuote,Work from home,"₹ 6,36,000 - 12,60,000",2026-02-17,"OpenCV, Python, Machine Learning, Computer Vision, Deep Learning, CNN (Convolutional Neural Network)",Job,python,internshala
+Artificial Intelligence (AI) Specialist,"Alsatronix (Dubai, United Arab Emirates)",Work from home,"₹ 6,00,000 - 12,00,000",2026-02-24,"Python, Data Structures, Machine Learning, Data Science, Neural Networks, Natural Language Processing (NLP), Deep Learning",Job,python,internshala
+Associate Backend Developer,Zulitech Solution,Work from home,"₹ 6,00,000 - 9,00,000",2026-03-03,"MySQL, HTML, Python",Job,python,internshala
+Data Analytics Trainee,Zulitech Solution,Work from home,"₹ 6,00,000 - 9,00,000",2026-03-03,"Python, SQL, Data Analytics",Job,python,internshala
+Junior Python Developer,Zulitech Solution,Work from home,"₹ 6,00,000 - 9,00,000",2026-03-03,"HTML, CSS, Python",Job,python,internshala
+Software Developer,AMIT SINGH,Work from home,"₹ 6,00,000",2026-03-03,"MySQL, Python, Node.js, PyTorch, Prompt Engineering, LLM evaluation",Job,python,internshala
+Software Developer,TalentXO,Work from home,"₹ 6,00,000",2026-02-24,"MySQL, HTML, CSS, Python, React",Job,python,internshala
+Associate Software Developer,TalentXO,Bangalore,"₹ 6,00,000",2026-02-17,"MySQL, HTML, CSS, Python, React",Job,python,internshala
+Full Stack Developer,"Hamden Technology (London, United Kingdom)",Work from home,"₹ 5,50,000 - 13,00,000",2026-02-24,"PHP, MySQL, HTML, CSS, JavaScript, Python, MongoDB",Job,python,internshala
+Software Developer,START-UP SAHAY PRIVATE LIMITED,Bangalore,"₹ 5,50,000 - 7,00,000",2026-03-03,"Java, MySQL, HTML, CSS, JavaScript, Python, .NET",Job,python,internshala
+Full Stack Developer,HEXA SOLUTIONS,Work from home,"₹ 5,50,000 - 7,00,000",2026-02-24,"PHP, MySQL, HTML, CSS, JavaScript, Python, MongoDB",Job,python,internshala
+Data Analytics Trainee,HEXA SOLUTIONS,Work from home,"₹ 5,25,000 - 6,50,000",2026-03-03,"MS-Office, Python, SQL, Data Analytics, MS-Excel, Data Science, Data Interpretation",Job,python,internshala
+Computer Vision Associate,Unmannd Autonomy,Bangalore,"₹ 5,00,000 - 8,00,000",2026-03-03,"OpenCV, Python, Linux, Machine Learning, Computer Vision, Deep Learning",Job,python,internshala
+Data Analytics Specialist,START-UP SAHAY PRIVATE LIMITED,Bangalore,"₹ 5,00,000 - 7,00,000",2026-03-03,"Python, SQL, Data Analytics, MS-Excel, Data Science, Power BI, Tableau",Job,python,internshala
+Backend Developer,Moretasks Business Solution Limited,Gurgaon,"₹ 5,00,000 - 7,00,000",2026-02-17,"MySQL, Python, Git, Django, Node.js, PostgreSQL, Docker",Job,python,internshala
+Associate Data Scientist,SoftSensor.ai,"Gurgaon, Jaipur","₹ 5,00,000 - 6,00,000",2026-03-01,"Python, SQL, Data Analytics, Machine Learning, Data Science, Natural Language Processing (NLP), Deep Learning",Job,python,internshala
+Backend Developer,InstaAstro,Noida,"₹ 5,00,000 - 6,00,000",2026-02-24,"Python, Django, Spring Boot",Job,python,internshala
+Electronics Engineer,NOVA Technology,Work from home,"₹ 5,00,000 - 6,00,000",2026-02-17,"MATLAB, Python, ARM Microcontroller, Embedded C, Raspberry Pi, Embedded Systems, Arduino",Job,python,internshala
+Financial Business Analyst,MHLondon,Noida,"₹ 5,00,000 - 5,10,000",2026-02-17,"MS-Office, Python, MS-PowerPoint, MS-Excel, Financial Modeling, Business Analysis, Financial Analysis",Job,python,internshala
+Technical Support Engineer Operations,Prismforce,"Pune, Mumbai","₹ 5,00,000",2026-02-24,"Python, XML, JSON, REST API, Jira, Postman, Data Cleaning",Job,python,internshala
+Technical Content Creator,Mem0 AI,Work from home,"₹ 5,00,000",2026-02-17,"Content Writing, Python, Report Writing, Technical Writing, English Proficiency (Spoken), English Proficiency (Written)",Job,python,internshala
+Full Stack Developer,T  H Lab Private Limited,"Chandigarh, Mohali, Punjab, Haryana","₹ 4,80,000 - 5,70,000",2026-03-03,"PHP, MySQL, HTML, CSS, JavaScript, Python, MongoDB",Job,python,internshala
+Data Analytics Associate,NOVA Technology,Work from home,"₹ 4,50,000 - 6,00,000",2026-02-24,"HTML, Python, SQL, Data Analytics, MS-Excel, Data Science, Data Interpretation",Job,python,internshala
+Electrical Engineer,NOVA Technology,Work from home,"₹ 4,50,000 - 6,00,000",2026-02-17,"AutoCAD, MATLAB, Python, SolidWorks, Autodesk Revit, Circuit Design, Simulink",Job,python,internshala
+Mechanical Engineer,NOVA Technology,Work from home,"₹ 4,50,000 - 6,00,000",2026-02-17,"AutoCAD, MATLAB, MS-Office, Python, Project Management, SolidWorks, Catia",Job,python,internshala
+Associate Software Engineer,Brudite Private Limited,Jaipur,"₹ 4,50,000 - 6,00,000",2026-02-10,"Cloud Computing, Python, FastAPI",Job,python,internshala
+Junior Machine Learning Associate,TestAIng Solutions,Bangalore,"₹ 4,50,000",2026-03-02,"Python, Machine Learning, Transformers, Natural Language Processing (NLP), Deep Learning, LLMOps, LLM evaluation",Job,python,internshala
+Artificial Intelligence/Machine Learning- Product Developer,Elements Mediaworks,Mumbai,"₹ 4,35,000 - 6,60,000",2026-02-17,"Java, MySQL, HTML, CSS, JavaScript, Python, Data Analytics",Job,python,internshala
+Data Analyst,"E-Health Research Center, IIIT-Bangalore",Bangalore,"₹ 4,20,000 - 6,00,000",2026-03-03,"MS-Office, Python, SQL, MS-Excel, Power BI",Job,python,internshala
+Robotics Competition Specialist,ROBO-G,Bangalore,"₹ 4,20,000 - 4,80,000",2026-02-10,"Python, Robotics, Teaching, C Programming",Job,python,internshala
+Data Scientist,Trivora Systems,Work from home,"₹ 4,00,000 - 7,00,000",2026-03-03,"Python, SQL, Data Analytics, Machine Learning, Data Science, Artificial intelligence",Job,python,internshala
+Python Developer,Trivora Systems,Work from home,"₹ 4,00,000 - 7,00,000",2026-03-03,"HTML, CSS, Python, Django",Job,python,internshala
+Backend Developer,Trivora Systems,Work from home,"₹ 4,00,000 - 7,00,000",2026-03-03,"Java, PHP, MySQL, HTML, Python",Job,python,internshala
+Junior Data Analyst,Trivora Systems,Work from home,"₹ 4,00,000 - 7,00,000",2026-02-24,"Python, SQL, Data Analytics, MS-Excel, Data Analysis",Job,python,internshala
+Cloud Engineer,Trivora Systems,Work from home,"₹ 4,00,000 - 7,00,000",2026-02-17,"Cloud Computing, Python, Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platforms (GCP)",Job,python,internshala
+Junior Python Developer,Trivora Systems,Work from home,"₹ 4,00,000 - 7,00,000",2026-02-17,"HTML, CSS, Python, Django, Machine Learning, REST API",Job,python,internshala
+Junior Data Scientist,Trivora Systems,Work from home,"₹ 4,00,000 - 7,00,000",2026-02-17,"Python, Data Analytics, Machine Learning, Data Science, Artificial intelligence",Job,python,internshala
+Junior Backend Developer,Trivora Systems,Work from home,"₹ 4,00,000 - 7,00,000",2026-02-17,"Java, PHP, MySQL, HTML, Python, MongoDB",Job,python,internshala
+Computer Vision Specialist,Indo Web Agency,Noida,"₹ 4,00,000 - 6,00,000",2026-02-17,"OpenCV, Python, Linux, Django, Machine Learning, Computer Vision, Flask",Job,python,internshala
+Associate Manager - Customer Success,Intugine Technologies Private Limited,Bangalore,"₹ 4,00,000 - 6,00,000",2026-02-10,"Python, SQL, Client Interaction, Tableau, Effective Communication",Job,python,internshala
+Junior AI Engineer,Smartan Fittech,Chennai,"₹ 4,00,000 - 5,00,000",2026-02-17,"Python, Deep Learning, TensorFlow, PyTorch, CNN (Convolutional Neural Network), Matplotlib",Job,python,internshala
+DevOps Engineer (Azure),TalentXO,Bangalore,"₹ 4,00,000 - 5,00,000",2026-02-17,"Python, Oracle, PostgreSQL, MS SQL Server, Docker, Microsoft Azure, DevOps",Job,python,internshala
+Computer Trainer,GTB COMPUTER EDUCATION,Jalandhar,"₹ 3,80,000 - 4,40,000",2026-02-24,"Java, PHP, Python, C Programming, C++ Programming",Job,python,internshala
+Embedded Engineer,Brela Innovations Private Limited,Kanpur,"₹ 3,60,000 - 6,00,000",2026-02-10,"MATLAB, Python, Embedded C, Embedded Systems, Circuit Design, VLSI, PCB Design",Job,python,internshala
+Senior Python Developer,Shivankit TechSolutions OPC Private Limited,Work from home,"₹ 3,60,000 - 5,00,000",2026-02-10,"Python, Machine Learning, REST API, Flask, Python Libraries",Job,python,internshala
+Python ETL Developer,Acies,Mumbai,"₹ 3,50,000 - 9,00,000",2026-02-17,"Python, MS SQL Server, ETL processes, Python Libraries",Job,python,internshala
+Full Stack Developer,Health Files,Mumbai,"₹ 3,50,000 - 7,00,000",2026-02-24,"PHP, MySQL, HTML, CSS, JavaScript, Python, MongoDB",Job,python,internshala
+Software Developer,TotalVDO,"Ghaziabad, Noida","₹ 3,50,000 - 4,50,000",2026-02-10,"Python, Node.js, React",Job,python,internshala
+Artificial Intelligence (AI) Trainee,MINDTEL GLOBAL PRIVATE LIMITED,Noida,"₹ 3,50,000 - 4,00,001",2026-02-10,"Python, Machine Learning, React, Natural Language Processing (NLP), Artificial intelligence, Effective Communication, Generative AI Development",Job,python,internshala
+Software Developer,AAGNAK INFO LOGISTICS,North Paravoor,"₹ 3,20,000 - 6,00,000",2026-03-03,"MySQL, HTML, CSS, JavaScript, Python",Job,python,internshala
+Junior Software Developer,Virsyn AI Studio,Work from home,"₹ 3,10,000 - 5,20,000",2026-03-03,"MySQL, CSS, JavaScript, Python, Node.js, PostgreSQL, C++ Programming",Job,python,internshala
+Junior Devops/Cloud Engineer,IESoft Technologies Private Limited,Mumbai,"₹ 3,00,000 - 8,00,000",2026-02-17,"Java, JavaScript, Python, Linux, Shell Scripting, Docker, Amazon Web Services (AWS)",Job,python,internshala
+Artificial Intelligence (AI) Trainee,Rekha Singh,Ghaziabad,"₹ 3,00,000 - 8,00,000",2026-02-10,"Python, Data Structures, Machine Learning, Data Science, Neural Networks, Natural Language Processing (NLP), Deep Learning",Job,python,internshala
+Developer (Golang/Angular),Jungleworks,"Ambala, Amritsar, Chandigarh, Jalandhar, Karnal, Ludhiana, Kharar, Rajpura, Mohali, Zirakpur, Panchkula, Ropar Division","₹ 3,00,000 - 7,00,000",2026-02-10,"Python, AngularJS, Golang, Angular 7.0, Python Libraries",Job,python,internshala
+Associate Backend Developer,Desnor Destination,Work from home,"₹ 3,00,000 - 6,00,000",2026-03-03,"Java, PHP, MySQL, HTML, Python, MongoDB, Django",Job,python,internshala
+AI Full Stack Engineer,Humanity Founders,Work from home,"₹ 3,00,000 - 6,00,000",2026-03-03,"Python, Django, Node.js, User Interface (UI) Development, PostgreSQL, UI & UX Design, SQLite",Job,python,internshala
+Full Stack AI Engineer,AUUM Platforms,Work from home,"₹ 3,00,000 - 6,00,000",2026-02-17,"Java, JavaScript, Cloud Computing, Python, Node.js, React, Database Management System (DBMS)",Job,python,internshala
+Junior Full Stack Developer,Studio Frontier,Mumbai,"₹ 3,00,000 - 6,00,000",2026-02-10,"JavaScript, Python, Automation, React, ORM, React Native, TypeScript",Job,python,internshala
+Teaching Assistant - DA,Sharpener,Work from home,"₹ 3,00,000 - 5,00,000",2026-02-24,"Python, SQL, Data Analytics, MS-Excel, Statistics, Data Visualization, Power BI",Job,python,internshala
+Backend Developer,Desnor Destination,"Faridabad, Delhi, Ghaziabad, Gurgaon, Greater Noida, Noida","₹ 3,00,000 - 5,00,000",2026-02-24,"Java, PHP, MySQL, HTML, Team Management, Python, MongoDB",Job,python,internshala
+Associate Backend Developer,Desnor Destination,Delhi,"₹ 3,00,000 - 5,00,000",2026-02-17,"Java, PHP, MySQL, HTML, Python, MongoDB, Django",Job,python,internshala
+Data Analyst,BXP Support And Solutions Private Limited,Bangalore,"₹ 3,00,000 - 5,00,000",2026-02-10,"Python, SQL, Data Analytics, MS-Excel, Business Analysis, Power BI, Tableau",Job,python,internshala
+Instructor - DSA Trainer,SmileBots,Jalandhar,"₹ 3,00,000 - 4,80,000",2026-02-24,"Java, Python, C++ Programming",Job,python,internshala
+Robotics & STEM Engineer (Teaching Role),ROBO-G,Bangalore,"₹ 3,00,000 - 4,20,000",2026-02-10,"Java, Python, Arduino, C Programming",Job,python,internshala
+AI-Powered Full-Stack Developer,CSTE International,Work from home,"₹ 3,00,000 - 4,20,000",2026-03-03,"Python, SQL, Node.js, React, Artificial intelligence, Data Analysis",Job,python,internshala
+Robotics Educator,WhizJuniors,"Pune, Mumbai, Nagpur, Gujrat, Bangalore","₹ 3,00,000 - 4,20,000",2026-02-10,"Python, Robotics, Raspberry Pi, C++ Programming, Robot Operating System (ROS), Effective Communication",Job,python,internshala
+Embedded Hardware Design Engineer,Wildly Tech Private Limited,Bangalore,"₹ 3,00,000 - 4,00,000",2026-02-10,"Python, Embedded Systems, Google Docs, C Programming, PCB Design, EAGLE, PCB Soldering",Job,python,internshala
+Python Developer,Your Digital Lift,"Thane, Navi Mumbai, Mumbai","₹ 3,00,000 - 4,00,000",2026-03-03,"HTML, CSS, Python, Django, Machine Learning, REST API",Job,python,internshala
+Associate Full Stack Developer,Globik AI Private Limited,Vijayawada,"₹ 3,00,000 - 4,00,000",2026-02-24,"CSS, JavaScript, Python, MongoDB, Node.js, React, Google Cloud Platforms (GCP)",Job,python,internshala
+Data Analytics Executive,NH Studioz,Mumbai,"₹ 3,00,000 - 4,00,000",2026-02-17,"Python, Data Analytics, Data Science, ChatGPT",Job,python,internshala
+Associate Data Engineer,Wadhwani Foundation,Bangalore,"₹ 3,00,000 - 4,00,000",2026-02-10,"MySQL, Python, SQL, PostgreSQL, Power BI, Tableau, Data Analysis",Job,python,internshala
+Junior Business Analyst,Drona Pay Private Limited,Mumbai,"₹ 3,00,000 - 4,00,000",2026-02-10,"Python, SQL",Job,python,internshala
+Software Developer,Cere Labs,Mumbai,"₹ 3,00,000 - 4,00,000",2026-02-10,"MySQL, JavaScript, Python, React.Js, Pycharm",Job,python,internshala
+Junior Machine Learning Specialist,Warewe Consultancy Private Limited,Gurgaon,"₹ 3,00,000 - 3,60,000",2026-03-03,"Python, Django, Machine Learning, Neural Networks, REST API, Natural Language Processing (NLP), Deep Learning",Job,python,internshala
+Embedded Systems Engineer,Bookmark Projects Trust (DoScience),Hyderabad,"₹ 3,00,000 - 3,60,000",2026-03-03,"Java, Python, C++ Programming, Effective Communication",Job,python,internshala
+Full Stack Developer,True Value Talks,Gurgaon,"₹ 3,00,000 - 3,60,000",2026-03-03,"PHP, MySQL, HTML, CSS, JavaScript, Python, MongoDB",Job,python,internshala
+Junior Software Developer,Vaagartha Staff Spot Consulting Private Limited,Work from home,"₹ 3,00,000 - 3,50,000",2026-02-24,"Python, DevOps",Job,python,internshala
+Full Stack Developer,SAJRE EDUTECH PRIVATE LIMITED,Dharwad,"₹ 3,00,000 - 3,50,000",2026-02-10,"Python, Nginx, Django, Node.js, PostgreSQL, React, REST API",Job,python,internshala
+Junior Python Developer,Time Line Investments,"Bangalore, Anantapur, Chennai, Delhi, Mysuru, Hyderabad, Tumakuru, Udupi, Gokarna, Andra","₹ 3,00,000 - 3,20,000",2026-02-10,"Python, SQL, Logical reasoning, Django, Machine Learning, GitHub, REST API",Job,python,internshala
+Software Developer,Tibei-e-Innovations Pvt. Ltd.,Delhi,"₹ 3,00,000 - 3,12,000",2026-02-17,"MySQL, HTML, CSS, JavaScript, Python, React",Job,python,internshala
+Software Developer,Evosphare Solutions,Mumbai,"₹ 3,00,000 - 3,00,002",2026-02-24,"MySQL, HTML, CSS, JavaScript, Python, Machine Learning, Node.js",Job,python,internshala
+Computer Vision Trainee,I2v Systems Private Limited,Gurgaon,"₹ 3,00,000",2026-03-02,"OpenCV, Python, Machine Learning, Computer Vision, Deep Learning, PyTorch, Keras",Job,python,internshala
+Client Service Executive,Tradetron,Work from home,"₹ 3,00,000",2026-03-03,"MS-Office, Python, Problem Solving, English Proficiency (Spoken), English Proficiency (Written), Hindi Proficiency (Spoken), Stock Trading",Job,python,internshala
+Full Stack Developer,UXDLAB Software Private Limited,Ghaziabad,"₹ 3,00,000",2026-02-10,"PHP, MySQL, HTML, CSS, JavaScript, Python, MongoDB",Job,python,internshala
+AI And Robotics Trainer,STEMpedia,Bhopal,"₹ 2,84,000 - 4,20,000",2026-02-10,"MS-Office, Python, Robotics, Teaching, Arduino",Job,python,internshala
+Artificial Intelligence (AI) Associate,RS Infomedia And Films Private Limited,Delhi,"₹ 2,50,000 - 8,00,000",2026-03-03,"Python, Data Structures, Machine Learning, Data Science, Neural Networks, Natural Language Processing (NLP), Deep Learning",Job,python,internshala
+PHP Developer,Prarang,Noida,"₹ 2,50,000 - 6,50,000",2026-02-10,"PHP, MySQL, JavaScript, Python, Laravel, React, Model View Controller(MVC)",Job,python,internshala
+Full Stack Developer,Finkuby Technologies LLP,Hyderabad,"₹ 2,50,000 - 5,00,000",2026-02-24,"Python, MongoDB, AngularJS, Node.js, React",Job,python,internshala
+Data Analytics Executive,Vindiata Consulting Private Limited,Work from home,"₹ 2,50,000 - 4,00,000",2026-03-02,"Python, SQL, Data Analytics, MS-Excel, Power BI",Job,python,internshala
+Senior Python Developer,Primetrade.ai,Work from home,"₹ 2,50,000 - 3,20,000",2026-03-02,"Python, Machine Learning, Data Science, Database Management System (DBMS), Generative AI Tools, AWS CloudFormation",Job,python,internshala
+Backend Developer,Solutions Bajaj,Work from home,"₹ 2,40,000 - 7,00,000",2026-02-24,"PHP, MySQL, Python, Linux, Django, REST API, DevOps",Job,python,internshala
+AI-native Software Developer Intern,IXG Inc,Hyderabad,"₹ 2,40,000 - 4,80,000",2026-02-10,"Python, MongoDB, PostgreSQL",Job,python,internshala
+Artificial Intelligence (AI) Trainee,DNA Growth,Mohali,"₹ 2,40,000 - 3,60,000",2026-03-03,"Python, Data Structures, Machine Learning, Artificial intelligence, Prompt Engineering",Job,python,internshala
+AI ML Engineer,Invictus Global Tech,Chennai,"₹ 2,40,000 - 3,60,000",2026-02-24,"MySQL, JavaScript, Python, Machine Learning, Node.js, JSON, Express.js",Job,python,internshala
+Financial Planning Analyst,Dataknobs,Work from home,"₹ 2,40,000 - 3,60,000",2026-02-24,"Python, Financial Analysis, Artificial intelligence, Data Analysis",Job,python,internshala
+Cyber Security Specialist,The Prime Step,Indore,"₹ 2,40,000 - 3,60,000",2026-02-10,"Python, Computer Networking, Linux, Ethical Hacking, VAPT, Web Application Security",Job,python,internshala
+Data Scientist,Digital Ipsum,Work from home,"₹ 2,40,000 - 3,60,000",2026-02-10,"Python, SQL, Data Analytics, Machine Learning, Data Science, Natural Language Processing (NLP), Predictive Analytics",Job,python,internshala
+Internet of Things (IoT) Associate,Tynatech Ingenious Private Limited,Noida,"₹ 2,40,000 - 3,50,000",2026-03-03,"Python, Raspberry Pi, Embedded Systems, Arduino, C Programming, C++ Programming, Internet of Things (IoT)",Job,python,internshala
+Software Developer,GULF PATH,Kompally,"₹ 2,40,000 - 3,40,000",2026-03-03,"Java, MySQL, HTML, CSS, JavaScript, Python, .NET",Job,python,internshala
+Robotics Associate,Techradiance & Harbour Technologies,Delhi,"₹ 2,40,000 - 3,00,000",2026-02-17,"Python, Robotics, Raspberry Pi, Embedded Systems, Internet of Things (IoT)",Job,python,internshala
+Software Developer,Cere Labs,Mumbai,"₹ 2,40,000 - 3,00,000",2026-02-24,"Java, MySQL, Python, React",Job,python,internshala
+Python Developer,NetSutra,"Agra, Dehradun, Delhi, Ghaziabad, Meerut, Jaipur, Noida, Uttar Pradesh","₹ 2,40,000 - 3,00,000",2026-02-10,"MySQL, Python, Django",Job,python,internshala
+Junior Software Developer,Supervsr Technologies Private Limited,Kolkata,"₹ 2,40,000 - 3,00,000",2026-02-10,"JavaScript, Python, Node.js, PostgreSQL, Docker, GitHub, React",Job,python,internshala
+Full Stack Developer,Stage X,Work from home,"₹ 2,30,000 - 4,40,000",2026-02-10,"PHP, MySQL, HTML, CSS, JavaScript, Python, MongoDB",Job,python,internshala
+RPA Developer,TMI Group,"Secunderabad, Hyderabad","₹ 2,30,000 - 4,00,000",2026-03-03,"Python, Automation, UiPath",Job,python,internshala
+Full Stack Developer,Shiplee,Bangalore,"₹ 2,20,000 - 3,30,000",2026-02-10,"PHP, MySQL, HTML, CSS, JavaScript, Python, MongoDB",Job,python,internshala
+Data Analytics Specialist,Stage X,Work from home,"₹ 2,20,000 - 3,30,000",2026-02-10,"Python, SQL, Data Analytics, MS-Excel, Data Science, Power BI, Tableau",Job,python,internshala
+Business Analyst,Stage X,Work from home,"₹ 2,20,000 - 3,30,000",2026-02-10,"MS-Office, Python, SQL, Data Analytics, MS-Excel, English Proficiency (Spoken), English Proficiency (Written)",Job,python,internshala
+Full Stack Engineer,LoraTech Solutions,Work from home,"₹ 2,20,000 - 2,70,000",2026-02-10,"PHP, HTML, JavaScript, Python, SQL, Node.js, React Native",Job,python,internshala
+NAPS Trainee,TVS Training And Services Limited,Andhra Pradesh,"₹ 2,20,000",2026-02-10,"Java, MS-Office, Python, Attention to Detail, Time Management, Physics, Chemistry",Job,python,internshala
+Robotics Educator,Techyguide OPC Private Limited,Bahraich,"₹ 2,16,000 - 2,40,000",2026-02-10,"MS-Office, Python, Teaching, Arduino, C Programming, Teamwork, Effective Communication",Job,python,internshala
+Python Developer,Jagatmitra Foundation,Delhi,"₹ 2,10,000 - 2,70,000",2026-02-17,"HTML, CSS, Python, Machine Learning, REST API, Flask, Python Libraries",Job,python,internshala
+Oracle Cloud Data Engineer,Aaptatt,Work from home,"₹ 2,10,000 - 2,50,000",2026-02-17,"Python, SQL, Git, Hadoop, Shell Scripting, PL/SQL, CI/CD",Job,python,internshala
+Software Developer,ECUGIE TECHNOLOGIES,Gurgaon,"₹ 2,05,000 - 3,20,000",2026-02-10,"Java, MySQL, HTML, CSS, JavaScript, Python, React",Job,python,internshala
+Information Technology Engineer,M S SHARMA & CO,Faridabad,"₹ 2,05,000 - 3,00,000",2026-02-24,"Python, Computer Networking",Job,python,internshala
+Full Stack Developer,Stage X,Bhopal,"₹ 2,02,000 - 5,05,000",2026-03-03,"PHP, MySQL, HTML, CSS, JavaScript, Python, MongoDB",Job,python,internshala
+Python Developer,Stage X,Bhopal,"₹ 2,02,000 - 2,55,000",2026-03-03,"HTML, CSS, Python, Django, Machine Learning, REST API, Flask",Job,python,internshala
+Business Analyst,Stage X,Bhopal,"₹ 2,02,000 - 2,55,000",2026-03-03,"MS-Office, Python, SQL, Data Analytics, MS-Excel, English Proficiency (Spoken), English Proficiency (Written)",Job,python,internshala
+Data Analytics Specialist,Stage X,Bhopal,"₹ 2,02,000 - 2,55,000",2026-03-03,"Python, SQL, Data Analytics, MS-Excel, Data Science, Power BI, Tableau",Job,python,internshala
+Online Computer Science Tutor,"AstroEdu Innovations FZ-LLC (Ras Al-Khaimah, United Arab Emirates)",Work from home,"₹ 2,00,000 - 5,00,000",2026-03-03,"Python, SQL, Time Management, Algorithms, Data Structures, Online Teaching, Effective Communication",Job,python,internshala
+Frapee Developer,Weekday,Mumbai,"₹ 2,00,000 - 4,00,000",2026-02-10,Python,Job,python,internshala
+React JS Engineer(Remote): 6 Months -1 Year,Palcode.ai,Work from home,"₹ 2,00,000 - 4,00,000",2026-02-24,"Python, React.Js",Job,python,internshala
+Automation Test Engineer,Big Rattle Technologies,Mumbai,"₹ 2,00,000 - 4,00,000",2026-02-10,"Java, JavaScript, Python, Selenium, Manual Testing, STLC, Cypress",Job,python,internshala
+Software Engineer Trainee,4CECloud Labs,Bangalore,"₹ 2,00,000 - 3,60,000",2026-03-02,"Java, Python, Salesforce",Job,python,internshala
+Software Developer,Shiplee,Bangalore,"₹ 2,00,000 - 3,20,000",2026-02-10,"Java, PHP, MySQL, HTML, CSS, JavaScript, Python",Job,python,internshala
+IT & Backend Developer - Fresher,ZedPlus Accounting And Finance,Work from home,"₹ 2,00,000 - 3,00,000",2026-03-03,"JavaScript, Python, Node.js, React, Flask",Job,python,internshala
+Data Analyst & Data Science Trainer,Adbizit,Mumbai,"₹ 2,00,000 - 3,00,000",2026-02-17,"Python, Machine Learning, Statistics, Power BI, Tableau, Artificial intelligence, NumPy",Job,python,internshala
+Computer Science & AI Teacher,Vigyan Pragya Foundation,Vrindavan,"₹ 2,00,000 - 3,00,000",2026-02-10,"Python, SQL, Generative AI Tools",Job,python,internshala
+6 Months Python Backend Engineer (REMOTE),Palcode.ai,Work from home,"₹ 2,00,000 - 3,00,000",2026-03-03,Python,Job,python,internshala
+Python Developer,Hubotx Labs Private Limited,Noida,"₹ 2,00,000 - 2,90,000",2026-02-10,"Java, CSS, JavaScript, Python, Docker",Job,python,internshala
+Web Developer (Full-Stack + AI),Matrix International,Work from home,"₹ 2,00,000 - 2,80,000",2026-02-10,"PHP, HTML, CSS, JavaScript, Python, WordPress, UI & UX Design",Job,python,internshala
+Associate Python Developer,Megaminds IT Services,Hyderabad,"₹ 2,00,000 - 2,50,000",2026-03-03,"Negotiation, Python, Data Structures, Data Analytics, Machine Learning, Problem Solving, GitHub",Job,python,internshala
+Python Developer,Voicedots Infotech,Work from home,"₹ 2,00,000 - 2,40,000",2026-02-17,"Python, Machine Learning, Artificial intelligence, ChatGPT, LLM evaluation, Python Libraries",Job,python,internshala
+Artificial Intelligence (AI) Specialist,Quantasis Private Limited,Mumbai,"₹ 2,00,000 - 2,25,000",2026-02-17,"Python, Artificial intelligence, Artificial Intelligence Markup Language (AIML), Generative AI Tools, Vibe Coding",Job,python,internshala
+Part-Time Research Analyst (Graduate Role),"Eaglewood Capital Inc. (Toronto, Canada)",Work from home,"₹ 2,00,000 - 2,20,000",2026-03-02,"Python, Attention to Detail, Time Management, Accounting, Market Analysis, MS-Excel, Financial Modeling",Job,python,internshala
+Software Trainer With Developer,Arka Technologies Limited,Dharmapuri,"₹ 2,00,000 - 2,10,000",2026-02-17,"Java, Python, Computer Networking, C Programming",Job,python,internshala
+Python Developer,AIVOA,Work from home,"₹ 2,00,000 - 2,10,000",2026-02-10,"Python, React",Job,python,internshala
+Associate Software Developer,Dextop,Bhopal,"₹ 2,00,000 - 2,00,002",2026-02-10,"Python, Data Structures, Embedded Systems, C++ Programming",Job,python,internshala
+IT Trainer,TalentHome Solutions,Mumbai,"₹ 2,00,000",2026-02-17,"Java, Python, C Programming",Job,python,internshala
+Full Stack Developer,Elicius Energy Private Limited,Chennai,"₹ 2,00,000",2026-02-10,"MySQL, JavaScript, Python, MongoDB, React, REST API, FastAPI",Job,python,internshala
+Software Development Engineer I,Amazon,"Chennai, Delhi, Hyderabad, Mumbai, Bangalore",Competitive salary,2026-03-03,"Python, Algorithms, Data Structures, C Programming, C++ Programming, Object Oriented Programming (OOP)",Job,python,internshala
+Python Development,Globik AI Private Limited,Vijayawada,"₹ 15,000 - 18,000 /month",2026-03-02,"Python, MongoDB, React, REST API, Flask, Google Cloud Platforms (GCP), Amazon EC2",Job,python,internshala
+Artificial Intelligence (AI),Zuneko Labs,Pune,"₹ 5,000 - 6,500 /month",2026-03-03,"Python, Machine Learning, Automation, Artificial intelligence, APIs, Generative AI Development, LangChain",Job,python,internshala
+Frappe/ERPnext Developer,Zuneko Labs,"Kolkata, Pune","₹ 5,000 - 7,500 /month",2026-03-03,"MySQL, HTML, CSS, JavaScript, Python, Linux, Git",Job,python,internshala
+AI Product Engineering,Zuneko Labs,"Kolkata, Pune","₹ 6,000 - 8,000 /month",2026-03-03,"Python, Mobile Application Development, Automation, Product Development, Frontend development, Backend development, Artificial intelligence",Job,python,internshala
+Computer Vision,Infinity Assurance Solutions Private Limited,Delhi,"₹ 5,000 - 10,000 /month",2026-03-03,"OpenCV, Python, Machine Learning, Computer Vision, Yolo",Job,python,internshala
+Blockchain Development,Subash Vijay Associates (SVA),Mumbai,"₹ 5,500 - 6,000 /month",2026-03-03,"JavaScript, Python, Data Structures, Node.js, C++ Programming, React, Golang",Job,python,internshala
+Artificial Intelligence (AI),Bipolar Factory,Work from home,"₹ 10,000 - 15,000 /month",2026-03-03,"Python, Ubuntu, Linux, REST API, Model Evaluation, LLMOps",Job,python,internshala
+Software Development,SubSpace,Bangalore,"₹ 30,000 - 40,001 /month",2026-03-03,"HTML, CSS, JavaScript, Python, SQL, Node.js, Express.js",Job,python,internshala
+Artificial Intelligence (AI),Primetrade.ai,Work from home,"₹ 10,000 /month",2026-03-02,"Python, Machine Learning, Natural Language Processing (NLP), Artificial intelligence, Hugging Face",Job,python,internshala
+AI Agent Development,Primetrade.ai,Work from home,"₹ 10,000 /month",2026-03-02,"Python, Software Testing",Job,python,internshala
+Full Stack Development,REKT,Work from home,"₹ 10,000 - 35,000 /month",2026-03-03,"JavaScript, Python, Git, Node.js, PostgreSQL, Express.js, React",Job,python,internshala
+Data Science,Innoknowvex,Work from home,"₹ 7,000 - 25,000 /month",2026-03-03,"Python, SQL, Data Analytics, Machine Learning, Data Science, Deep Learning, Artificial intelligence",Job,python,internshala
+Machine Learning,Innoknowvex,Work from home,"₹ 11,000 - 23,000 /month",2026-03-03,"Python, Data Analytics, Machine Learning, R Programming, Natural Language Processing (NLP)",Job,python,internshala
+Data Science,Mindenious Edutech,"Chennai, Coimbatore, Erode, Madurai, Tirunelveli, Thoothukudi, Dindigul, Thanjavur, Vellore, Salem, Tiruchipalli","₹ 3,000 - 17,000 /month",2026-03-03,"Python, SQL, Data Analytics, Machine Learning, Data Science, Deep Learning",Job,python,internshala
+Software Development Engineering (Web),RCS Projects Pvt Ltd,Gurgaon,"₹ 10,000 - 12,000 /month",2026-03-03,"HTML, CSS, JavaScript, Python, SQL, Django, Machine Learning",Job,python,internshala
+Data Analytics,Unnati Enterprises,"Secunderabad, Hyderabad","₹ 30,000 /month",2026-03-03,"Java, PHP, MySQL, HTML, Python, SQL, Data Analytics",Job,python,internshala
+Full Stack Development,Zuneko Labs,Pune,"₹ 5,000 - 5,500 /month",2026-03-03,"MySQL, HTML, CSS, JavaScript, Python, MongoDB, Git",Job,python,internshala
+Robotics,Gritsys,Chennai,"₹ 20,000 - 30,000 /month",2026-03-03,"Python, Robotics, Raspberry Pi, Embedded Systems, C++ Programming, Internet of Things (IoT)",Job,python,internshala
+Computer Vision,Zuneko Labs,Pune,"₹ 5,000 - 5,500 /month",2026-03-03,"OpenCV, Python, Linux, Machine Learning, Docker, Computer Vision, TensorFlow",Job,python,internshala
+Content Writing (Research Associate In Computer Science),Megaminds IT Services,Work from home,"₹ 8,000 - 15,000 /month",2026-03-03,"MS-Office, Content Writing, Python, MS-Word, LaTeX, Logical reasoning, Machine Learning",Job,python,internshala
+Data Analytics,HEXA SOLUTIONS,Work from home,"₹ 23,000 - 25,000 /month",2026-03-03,"Java, MySQL, MS-Office, Python, SQL, Data Analytics, MS-Excel",Job,python,internshala
+Full Stack Development,Nayoda,Work from home,"₹ 25,000 - 37,000 /month",2026-03-03,"JavaScript, HTML 5, Python, CSS3, MongoDB, Node.js, Express.js",Job,python,internshala
+Data Analytics,Pawzz,Work from home,"₹ 1,500 - 10,000 /month",2026-03-03,"Python, SQL, Time Management, Data Analytics, MS-Excel, Data Science, English Proficiency (Spoken)",Job,python,internshala
+Full Stack Development,HEXA SOLUTIONS,Work from home,"₹ 25,000 - 27,000 /month",2026-02-24,"PHP, MySQL, HTML, CSS, JavaScript, Python, MongoDB",Job,python,internshala
+Data Analytics,NOVA Technology,Work from home,"₹ 22,000 - 25,000 /month",2026-02-24,"HTML, Python, SQL, Data Analytics, MS-Excel, Data Science, Data Interpretation",Job,python,internshala
+Robotics Perception And Systems Engineering,Xolver,Noida,"₹ 25,000 - 30,000 /month",2026-02-24,"OpenCV, Python, C++ Programming, TensorFlow, Robot Operating System (ROS)",Job,python,internshala
+Business Analytics,Hamsi Marketing Private Limited,Work from home,"₹ 1,000 /month",2026-02-24,"Python, Data Analytics, MS-Excel, English Proficiency (Spoken), Research and Analytics",Job,python,internshala
+Full Stack Development,Cavius Technologies Private Limited,Hyderabad,"₹ 10,000 - 15,000 /month",2026-02-24,"Java, JavaScript, Python, MongoDB, Node.js, React, Next.js",Job,python,internshala
+Business Analytics,Myraid,Gurgaon,"₹ 10,000 - 15,000 /month",2026-02-24,"Python, SQL, Data Analytics, Research and Analytics",Job,python,internshala
+Full Stack Development,Contexta Solutions Pvt Ltd,Hyderabad,"₹ 12,000 - 18,000 /month",2026-02-24,"Java, MySQL, Python, React, Spring Boot, AWS Lambda",Job,python,internshala
+Full Stack Developer,Zepcruit,Pune,"₹ 5,000 - 10,000 /month",2026-02-24,"MySQL, HTML, CSS, JavaScript, Python, Problem Solving, Frontend development",Job,python,internshala
+Django,Varsity Pro,Delhi,"₹ 8,000 - 12,000 /month",2026-02-24,"Python, Django, REST API, JWT, Django Rest Framework",Job,python,internshala
+Engineering (AI/ML & Full Stack),Kanad Networks,"Delhi, Gurgaon","₹ 12,000 - 25,000 /month",2026-02-24,"Python, Neural Networks, Artificial intelligence, Artificial Intelligence Markup Language (AIML)",Job,python,internshala
+Prompt Engineering,Configtap,Bangalore,"₹ 2,000 - 4,000 /month",2026-02-24,"Java, JavaScript, Cloud Computing, Python, Node.js, LLMOps, Lovable (GenAI)",Job,python,internshala
+AI Agent Development,Supernan Childcare Solutions Private Limited,Bangalore,"₹ 20,000 - 20,002 /month",2026-02-24,"Python, SQL, REST API, Artificial intelligence, APIs",Job,python,internshala
+Full Stack Development,SociolinQ Technologies Private Limited,Work from home,"₹ 5,000 - 20,000 /month",2026-02-17,"Python, Django, PostgreSQL, React, TypeScript, FastAPI",Job,python,internshala
+Embedded Systems,Bilateral Solutions Private Limited,"Mandi, Himachal Pradesh","₹ 10,000 - 12,000 /month",2026-02-17,"Python, ARM Microcontroller, Raspberry Pi, Embedded Systems, Arduino, C Programming, C++ Programming",Job,python,internshala
+Python Development,Bilateral Solutions Private Limited,"Mandi, Himachal Pradesh","₹ 8,000 - 10,000 /month",2026-02-17,"MySQL, Python, Data Structures, MongoDB, Django, Machine Learning, REST API",Job,python,internshala
+Full Stack Development,Cite Works Studio,Pune,"₹ 10,000 - 15,000 /month",2026-02-17,"MySQL, Python, Django, Node.js, PostgreSQL, React, FastAPI",Job,python,internshala
+Generative AI Engineer,Aiqwip,Bangalore,"₹ 10,000 - 30,000 /month",2026-02-17,"Python, OpenAI API, LangChain, Prompt Engineering, Claude",Job,python,internshala
+Electrical Engineering,NOVA Technology,Work from home,"₹ 24,000 - 25,500 /month",2026-02-17,"AutoCAD, MATLAB, Python, SolidWorks, Autodesk Revit, Circuit Design, Simulink",Job,python,internshala
+Electronics Engineering,NOVA Technology,Work from home,"₹ 24,000 - 25,000 /month",2026-02-17,"MATLAB, Python, ARM Microcontroller, Embedded C, Raspberry Pi, Embedded Systems, Arduino",Job,python,internshala
+Mechanical Engineering,NOVA Technology,Work from home,"₹ 22,500 - 25,500 /month",2026-02-17,"AutoCAD, MATLAB, MS-Office, Python, SolidWorks, Catia, ANSYS",Job,python,internshala
+Ai Content Creation,Shuruwaat.com,Howrah,"₹ 2,20,000",2026-02-10,"Content Writing, Content Management, Artificial intelligence, Display Ads, Content Editing",Job,data-science,internshala
+Amazon PPC Expert,BuzzLaunch,Indore,"₹ 3,00,000 - 5,00,000",2026-02-24,"MS-Excel, Effective Communication, Email Management, Report Generation",Job,data-science,internshala
+AI Camp Facilitator (Summer Program),Nihar Sankhe,Mumbai,"₹ 2,10,000 - 3,40,000",2026-03-03,"Time Management, Creative Thinking, Teaching, Problem Solving, Computer skills, Coordination, Interpersonal skills",Job,data-science,internshala
+Digital Marketing Specialist,ERP IXO,Patna,"₹ 2,15,000 - 2,70,000",2026-02-24,"Social Media Marketing, Content Writing, Search Engine Marketing (SEM), Digital Marketing, Search Engine Optimization (SEO), Facebook Marketing, Creative Writing",Job,data-science,internshala
+Sales Executive For AI Powered SaaS Product,EduCloud Infotech LLP,Pune,"₹ 3,00,000 - 5,00,000",2026-03-03,"Cold Calling, Lead Generation, Inside Sales",Job,data-science,internshala
+Performance Marketing Executive,Animal Kingdom,Delhi,"₹ 2,00,000 - 2,40,000",2026-02-10,"Social Media Marketing, Time Management, Creative Thinking, Decision making, Effective Communication, Performance Marketing",Job,data-science,internshala
+Client Success And Operations Executive,KOAK Education Private Limited,"Delhi, Ghaziabad, Noida","₹ 2,65,000 - 4,20,000",2026-03-03,"MS-Excel, English Proficiency (Spoken), English Proficiency (Written)",Job,data-science,internshala
+Data Operator,Sabato Exports Pvt Ltd,Delhi,"₹ 2,00,000 - 2,16,000",2026-03-03,Advanced Excel,Job,data-science,internshala
+Performance Marketer,Tech Analogy,Ahmedabad,"₹ 3,00,000 - 3,60,000",2026-02-17,"Social Media Marketing, Google Analytics, Copywriting, Facebook Ads, Marketing Campaigns, Performance Marketing, Metasploit",Job,data-science,internshala
+Personalized Internet Ads Assessor - Hindi Language,"TELUS International AI Inc. (Las Vegas, United States)",Work from home,"₹ 4,50,000 - 4,60,000",2026-03-03,"Data Analytics, Data Analysis",Job,data-science,internshala
+Online Data Analyst - Malayalam Language,"TELUS International AI Inc. (Las Vegas, United States)",Work from home,"₹ 4,50,000 - 4,60,000",2026-03-03,"Data Analytics, Data Analysis",Job,data-science,internshala
+Online Data Analyst - Marathi Language,"TELUS International AI Inc. (Las Vegas, United States)",Work from home,"₹ 4,50,000 - 4,60,000",2026-03-03,"Data Analytics, Data Analysis",Job,data-science,internshala
+Online Data Analyst - Gujarati Language,"TELUS International AI Inc. (Las Vegas, United States)",Work from home,"₹ 4,50,000 - 4,60,000",2026-03-03,"Data Analytics, Data Analysis",Job,data-science,internshala
+Online Data Analyst - Tamil Speaker,"TELUS International AI Inc. (Las Vegas, United States)",Work from home,"₹ 4,50,000 - 4,60,000",2026-03-03,"Tamil Proficiency (Spoken), Tamil Proficiency (Written)",Job,data-science,internshala
+Online Data Analyst - Urdu Speaker,"TELUS International AI Inc. (Las Vegas, United States)",Work from home,"₹ 4,50,000 - 4,60,000",2026-03-03,"Urdu Proficiency(Spoken), Urdu Proficiency(Written)",Job,data-science,internshala
+Online Data Analyst - Punjabi Language,"TELUS International AI Inc. (Las Vegas, United States)",Work from home,"₹ 4,50,000 - 4,60,000",2026-02-24,"English Proficiency (Spoken), English Proficiency (Written), Punjabi Proficiency (Spoken), Punjabi Proficiency (Written), Artificial intelligence",Job,data-science,internshala
+Senior Category Manager - Sell Side,Zepto,Bangalore,Competitive salary,2026-02-24,,Job,data-science,internshala
+Category Manager - Sell Side,Zepto,Bangalore,Competitive salary,2026-02-10,,Job,data-science,internshala
+Senior AI Engineer At Turgon,Proof-of-Skill,Delhi,"₹ 25,00,000 - 40,00,000",2026-02-24,,Job,data-science,internshala
+Data Engineer,Kiash Solutions LLP,Hyderabad,"₹ 19,00,000 - 35,00,000",2026-02-24,,Job,data-science,internshala
+Sr. Data Analyst / Developer,Kiash Solutions LLP,"Chennai, Bangalore, Nanakramguda","₹ 19,00,000 - 30,00,000",2026-02-24,,Job,data-science,internshala
+ML Engineer,Kiash Solutions LLP,Chennai,"₹ 16,00,000 - 23,00,000",2026-02-24,,Job,data-science,internshala
+Gen AI Engineer,GGS Staffing Private Limited,Work from home,"₹ 12,00,000 - 24,00,000",2026-03-03,,Job,data-science,internshala
+Planning Analytics Software Engineer/Consultant,Hire Xpert,Gurgaon,"₹ 12,00,000 - 17,00,000",2026-02-10,,Job,data-science,internshala
+Data Engineer,Proof-of-Skill,Delhi,"₹ 10,00,000 - 18,00,000",2026-02-24,,Job,data-science,internshala
+Generative AI Engineer At Turgon,Proof-of-Skill,Delhi,"₹ 10,00,000 - 18,00,000",2026-02-24,,Job,data-science,internshala
+Senior UI/UX Designer- Consumer App,Kulfi,Bangalore,"₹ 10,00,000 - 16,00,000",2026-03-03,"Wireframing, UI & UX Design, Prototyping, Figma, Generative AI Tools",Job,data-science,internshala
+PPC Ads,Narayana Infra,Nanakramguda,"₹ 8,00,000 - 18,00,000",2026-02-10,,Job,data-science,internshala
+AI Implementation Engineer & Strategist,Tanmay Sharma,Work from home,"₹ 7,20,000 - 11,60,000",2026-02-10,"Automation, Artificial intelligence",Job,data-science,internshala
+Academic Counselor,AcceleratorX,Bangalore,"₹ 7,00,000",2026-03-03,"Presentation skills, Teamwork, Interpersonal skills, Effective Communication",Job,data-science,internshala
+Executive Operations Partner To Founder,"Alsatronix (Dubai, United Arab Emirates)",Work from home,"₹ 6,80,000 - 14,00,000",2026-02-24,"MS-Office, English Proficiency (Spoken), English Proficiency (Written)",Job,data-science,internshala
+Data Governance,ALIQAN Technologies,Chennai,"₹ 6,00,000 - 12,00,000",2026-02-10,,Job,data-science,internshala
+Sales & Marketing Manager,Perceptives Solutions,Work from home,"₹ 6,00,000 - 10,00,000",2026-02-17,"Market Analysis, Email Marketing, Client Relationship Management (CRM), Lead Generation, Marketing Strategy, B2B Sales, Prospecting",Job,data-science,internshala
+Big Data Manager,Zulitech Solution,Work from home,"₹ 6,00,000 - 9,00,000",2026-03-03,Java,Job,data-science,internshala
+Junior Business Analyst,Zulitech Solution,Work from home,"₹ 6,00,000 - 9,00,000",2026-03-03,"MS-Office, Data Analytics, MS-Excel",Job,data-science,internshala
+Big Data Trainee,Omadus Infotech,Work from home,"₹ 6,00,000 - 8,00,000",2026-03-03,"Copywriting, Data entry",Job,data-science,internshala
+Performance Marketer,Weekday,Mumbai,"₹ 6,00,000 - 8,00,000",2026-02-10,"Google AdWords, Facebook Ads",Job,data-science,internshala
+Artificial Intelligence (AI) Specialist,Peklenc,Noida,"₹ 5,80,000 - 8,40,000",2026-03-03,"Data Analytics, Web development, Web Design, Data Science, Artificial intelligence, DevOps, Market research",Job,data-science,internshala
+AI Engineer,Taxmann,Delhi,"₹ 5,00,000 - 8,00,000",2026-02-10,,Job,data-science,internshala
+Dietician (Knowledge Base - AI App),"Anvega Ltd (London, United Kingdom)",Work from home,"₹ 5,00,000 - 7,50,000",2026-02-10,Dietetics/Nutrition,Job,data-science,internshala
+Paid Ads Specialist,MiM-Essay,Delhi,"₹ 5,00,000 - 7,00,000",2026-03-03,"Google Analytics, Google AdWords, Facebook Ads, A/B Testing",Job,data-science,internshala
+SEO Analyst,GO MO Group,Pune,"₹ 5,00,000 - 7,00,000",2026-02-24,"Google Analytics, Presentation skills, Search Engine Optimization (SEO), Effective Communication, Google Search Console",Job,data-science,internshala
+Digital Marketing Manager,JK Securities Private Limited,Anand,"₹ 5,00,000 - 6,00,000",2026-02-17,"Social Media Marketing, Digital Marketing, Search Engine Optimization (SEO), Facebook Marketing, Creative Writing, Email Marketing, English Proficiency (Written)",Job,data-science,internshala
+Software Developer,Destify AI,Chennai,"₹ 4,80,000 - 6,00,000",2026-02-24,"Ruby on Rails, Flutter, LangChain, LLM evaluation, Vibe Coding, Cursor (GenAI)",Job,data-science,internshala
+Business Analyst,Symbiate Ventures Private Limited,Chennai,"₹ 4,80,000 - 6,00,000",2026-02-10,"MS-Office, Analytical Thinking, MS-Excel, Data Visualization",Job,data-science,internshala
+Executive Business Analyst,Sybrant Technologies Private Limited,Chennai,"₹ 4,80,000",2026-02-17,"MS-Office, Accounting, Financial Analysis",Job,data-science,internshala
+SENIOR GROWTH MANAGER,Housy,Pune,"₹ 4,50,000 - 7,00,000",2026-03-03,"Social Media Marketing, MS-Excel, Client Relationship Management (CRM), Business Analysis, Marketing Strategy, Client Relationship, Business Development",Job,data-science,internshala
+QA Engineer (AI/Search & Chatbot Testing),SoftSensor.ai,Jaipur,"₹ 4,50,000 - 6,50,000",2026-02-17,"Manual Testing, Quality Assurance/Quality Control (QA/QC)",Job,data-science,internshala
+Technical Financial Analyst,Trade Brains,Bangalore,"₹ 4,50,000 - 5,00,000",2026-02-24,"Financial Modeling, Technical Analysis, Financial Analysis, Stock Trading, Financial literacy, Data Analysis",Job,data-science,internshala
+Conversion Rate Optimization Consultant,DataVinci Private Limited,Work from home,"₹ 4,50,000 - 5,00,000",2026-02-10,"Attention to Detail, English Proficiency (Spoken), English Proficiency (Written), Research and Analytics, Effective Communication, A/B Testing, Conversion Rate Optimization",Job,data-science,internshala
+"Artificial Intelligence Filmmaker, Editor And Creative Producer",Elements Mediaworks,"Thane, Navi Mumbai, Mumbai","₹ 4,20,000 - 5,00,000",2026-02-17,"Video Editing, Adobe Premiere Pro, Final Cut Pro, Video Making, Storytelling, Generative AI Tools, Capcut",Job,data-science,internshala
+AI-Assisted Sales Manager,Tribe,Bangalore,"₹ 4,10,000 - 4,30,000",2026-02-24,"Client Relationship, Interpersonal skills, Sales, Effective Communication, Sales Strategy",Job,data-science,internshala
+Data Entry Trainee,Omadus Infotech,Work from home,"₹ 4,00,000 - 8,00,000",2026-03-03,"Copywriting, Data entry, Data Interpretation, Data Analysis",Job,data-science,internshala
+AI Application Engineer,Creators Impex,Gurgaon,"₹ 4,00,000 - 8,00,000",2026-02-17,"Backend development, Artificial intelligence, APIs",Job,data-science,internshala
+Data Entry Trainee,Omadus Infotech,Work from home,"₹ 4,00,000 - 8,00,000",2026-02-17,"Copywriting, Data entry, Data Interpretation, Data Analysis",Job,data-science,internshala
+FinTech Data Analyst (IFRS 9/Credit Risk),Globik AI Private Limited,Work from home,"₹ 4,00,000 - 8,00,000",2026-02-10,"Finance, Strategy, Analytical Thinking, Problem Solving, Technical Analysis, Coordination, Banking",Job,data-science,internshala
+Data Entry Trainee,Omadus Infotech,Work from home,"₹ 4,00,000 - 8,00,000",2026-02-10,"Copywriting, Data entry, Data Interpretation, Data Analysis",Job,data-science,internshala
+Big Data Executive,Step Out Tech,Work from home,"₹ 4,00,000 - 7,00,000",2026-03-02,MS-Word,Job,data-science,internshala
+Junior Big Data Trainee,Step Out Tech,Work from home,"₹ 4,00,000 - 7,00,000",2026-03-01,MS-Word,Job,data-science,internshala
+Big Data Specialist,Codix Software Solutions,Work from home,"₹ 4,00,000 - 7,00,000",2026-03-03,"MS-Office, MS-Word",Job,data-science,internshala
+STEM Instructor,BrainHap,"Surat, Vadodara","₹ 4,00,000 - 6,00,000",2026-03-01,"Project Management, Robotics, Client Interaction, Client Relationship Management (CRM), Technical Analysis, Sales Management, English Proficiency (Spoken)",Job,data-science,internshala
+Content & E-commerce Management Specialist,Cielo E-Commerce Private Limited,Delhi,"₹ 4,00,000 - 6,00,000",2026-03-03,"MS-Excel, English Proficiency (Spoken), English Proficiency (Written)",Job,data-science,internshala
+Data Analytics Executive,Sunny_6400 Limited,Work from home,"₹ 4,00,000 - 6,00,000",2026-03-03,"MS-Excel, Power BI",Job,data-science,internshala
+Associate - Performance Marketing | Growth Marketer,Devavi Media,Work from home,"₹ 4,00,000 - 6,00,000",2026-03-03,"Google Analytics, Google AdWords, Analytical Thinking, Facebook Ads, Effective Communication, Google Tag Manager, Google Sheets",Job,data-science,internshala
+Business Growth Analyst,Across The Globe (ATG),Bangalore,"₹ 4,00,000 - 6,00,000",2026-02-24,"MS-PowerPoint, Analytical Thinking, MS-Excel, Business Analysis, English Proficiency (Spoken), Jira, Confluence",Job,data-science,internshala
+Data Analytics Executive,Sunny_6400 Limited,Work from home,"₹ 4,00,000 - 6,00,000",2026-02-10,"MS-Excel, Power BI",Job,data-science,internshala
+Junior Business Analyst,"Sunny_6400 Limited (Punjab, India)","Delhi, Kolkata, Haryana, Gujrat (Pakistan), Bhopali, Punjab","₹ 4,00,000 - 6,00,000",2026-02-10,"MS-Office, Data Analytics",Job,data-science,internshala
+Project Manager,Techprimo Solutions Private Limited,Noida,"₹ 4,00,000 - 5,00,000",2026-02-10,"Project Management, Scrum, Jira, Agile Methodology, Waterfall Model",Job,data-science,internshala
+RAG AI Developer,Weekday,Mumbai,"₹ 4,00,000",2026-02-10,"Natural Language Processing (NLP), LLMOps",Job,data-science,internshala
+AI-Native Software Engineer,Ambill,Kota,"₹ 3,60,000 - 7,20,000",2026-03-03,"Node.js, PostgreSQL, Analytical Thinking, Problem Solving, React, Effective Communication, Generative AI Development",Job,data-science,internshala
+Data Analyst (Malayalam Speaker),"Peroptyx (Castlebar, Ireland)",Work from home,"₹ 3,60,000 - 7,00,000",2026-03-03,"English Proficiency (Written), Malayalam Proficiency (Spoken), Malayalam Proficiency (Written), Research and Analytics, Map Study",Job,data-science,internshala
+Data Analyst (Punjabi Speaker),"Peroptyx (Castlebar, Ireland)",Work from home,"₹ 3,60,000 - 7,00,000",2026-03-03,"English Proficiency (Spoken), Punjabi Proficiency (Written), Research and Analytics, Map Study, Data Analysis",Job,data-science,internshala
+Data Analyst (Bengali Speaker),"Peroptyx (Castlebar, Ireland)",Work from home,"₹ 3,60,000 - 7,00,000",2026-03-03,"English Proficiency (Written), Bengali Proficiency (Written), Research and Analytics, Data Analysis",Job,data-science,internshala
+Data Analyst (Gujarati Speaker),"Peroptyx (Castlebar, Ireland)",Work from home,"₹ 3,60,000 - 7,00,000",2026-03-03,"English Proficiency (Written), Gujarati Proficiency (Written), Research and Analytics, Map Study",Job,data-science,internshala
+Data Analyst (Kannada Speaker),"Peroptyx (Castlebar, Ireland)",Work from home,"₹ 3,60,000 - 7,00,000",2026-03-03,"English Proficiency (Written), Kannada Proficiency (Spoken), Research and Analytics, Map Study",Job,data-science,internshala
+Data Analyst (Marathi Speaker),"Peroptyx (Castlebar, Ireland)",Work from home,"₹ 3,60,000 - 7,00,000",2026-03-03,"English Proficiency (Written), Marathi Proficiency(Written), Research and Analytics, Map Study",Job,data-science,internshala
+Data Analyst (Odia/Oriya Speaker),"Peroptyx (Castlebar, Ireland)",Work from home,"₹ 3,60,000 - 7,00,000",2026-03-03,"English Proficiency (Written), Odia Proficiency(Written), Research and Analytics, Map Study, Data Analysis",Job,data-science,internshala
+Data Analyst (English Speaker),"Peroptyx (Castlebar, Ireland)",Work from home,"₹ 3,60,000 - 7,00,000",2026-03-03,"English Proficiency (Written), Research and Analytics, Map Study, Data Analysis",Job,data-science,internshala
+Data Analyst (Urdu Speaker),"Peroptyx (Castlebar, Ireland)",Work from home,"₹ 3,60,000 - 7,00,000",2026-03-03,"English Proficiency (Written), Urdu Proficiency(Spoken), Urdu Proficiency(Written), Research and Analytics, Data Analysis",Job,data-science,internshala
+Data Analyst (Odia/Oriya Speaker),"Peroptyx (Castlebar, Ireland)",Work from home,"₹ 3,60,000 - 7,00,000",2026-02-24,"English Proficiency (Written), Odia Proficiency(Written), Research and Analytics, Map Study, Data Analysis",Job,data-science,internshala
+Data Analyst (English Speaker),"Peroptyx (Castlebar, Ireland)",Work from home,"₹ 3,60,000 - 7,00,000",2026-02-24,"English Proficiency (Written), Research and Analytics, Map Study, Data Analysis",Job,data-science,internshala
+Data Analyst (Marathi Speaker),"Peroptyx (Castlebar, Ireland)",Work from home,"₹ 3,60,000 - 7,00,000",2026-02-24,"English Proficiency (Written), Marathi Proficiency(Written), Research and Analytics, Map Study",Job,data-science,internshala
+Data Analyst (Kannada Speaker),"Peroptyx (Castlebar, Ireland)",Work from home,"₹ 3,60,000 - 7,00,000",2026-02-24,"English Proficiency (Written), Kannada Proficiency (Spoken), Research and Analytics, Map Study",Job,data-science,internshala
+Data Analyst (Gujarati Speaker),"Peroptyx (Castlebar, Ireland)",Work from home,"₹ 3,60,000 - 7,00,000",2026-02-24,"English Proficiency (Written), Gujarati Proficiency (Written), Research and Analytics, Map Study",Job,data-science,internshala
+Data Analyst (Bengali Speaker),"Peroptyx (Castlebar, Ireland)",Work from home,"₹ 3,60,000 - 7,00,000",2026-02-24,"English Proficiency (Written), Bengali Proficiency (Written), Research and Analytics, Data Analysis",Job,data-science,internshala
+Data Analyst (Punjabi Speaker),"Peroptyx (Castlebar, Ireland)",Work from home,"₹ 3,60,000 - 7,00,000",2026-02-24,"English Proficiency (Spoken), Punjabi Proficiency (Written), Research and Analytics, Map Study, Data Analysis",Job,data-science,internshala
+Data Analyst (Odia/Oriya Speaker),"Peroptyx (Castlebar, Ireland)",Work from home,"₹ 3,60,000 - 7,00,000",2026-02-17,"English Proficiency (Written), Odia Proficiency(Written), Research and Analytics, Map Study, Data Analysis",Job,data-science,internshala
+Data Analyst (Urdu Speaker),"Peroptyx (Castlebar, Ireland)",Work from home,"₹ 3,60,000 - 7,00,000",2026-02-17,"English Proficiency (Written), Urdu Proficiency(Spoken), Urdu Proficiency(Written), Research and Analytics, Data Analysis",Job,data-science,internshala
+Data Analyst (Malayalam Speaker),"Peroptyx (Castlebar, Ireland)",Work from home,"₹ 3,60,000 - 7,00,000",2026-02-17,"English Proficiency (Written), Malayalam Proficiency (Spoken), Malayalam Proficiency (Written), Research and Analytics, Map Study",Job,data-science,internshala
+Data Analyst (Punjabi Speaker),"Peroptyx (Castlebar, Ireland)",Work from home,"₹ 3,60,000 - 7,00,000",2026-02-17,"English Proficiency (Spoken), Punjabi Proficiency (Written), Research and Analytics, Map Study, Data Analysis",Job,data-science,internshala
+Data Analyst (Bengali Speaker),"Peroptyx (Castlebar, Ireland)",Work from home,"₹ 3,60,000 - 7,00,000",2026-02-17,"English Proficiency (Written), Bengali Proficiency (Written), Research and Analytics, Data Analysis",Job,data-science,internshala
+Data Analyst (English Speaker),"Peroptyx (Castlebar, Ireland)",Work from home,"₹ 3,60,000 - 7,00,000",2026-02-17,"English Proficiency (Written), Research and Analytics, Map Study, Data Analysis",Job,data-science,internshala
+Data Analyst (Telugu Speaker),"Peroptyx (Castlebar, Ireland)",Work from home,"₹ 3,60,000 - 7,00,000",2026-02-10,"English Proficiency (Written), Gujarati Proficiency (Written), Research and Analytics, Map Study",Job,data-science,internshala
+Data Analyst (Tamil Speaker),"Peroptyx (Castlebar, Ireland)",Work from home,"₹ 3,60,000 - 7,00,000",2026-02-10,"English Proficiency (Written), Research and Analytics, Map Study, Data Analysis",Job,data-science,internshala
+Data Analyst (English Speaker),"Peroptyx (Castlebar, Ireland)",Work from home,"₹ 3,60,000 - 7,00,000",2026-02-10,"English Proficiency (Written), Research and Analytics, Map Study, Data Analysis",Job,data-science,internshala
+Social Media Manager,Sparkling Minds Technologies Private Limited,Noida,"₹ 3,60,000 - 6,00,000",2026-02-24,"Social Media Marketing, Marketing Strategies",Job,data-science,internshala
+Quantitative Researcher,The Future University,"Chandigarh, Mohali","₹ 3,60,000 - 6,00,000",2026-02-10,"NumPy, Pandas, XGBoost",Job,data-science,internshala
+Entrepreneur In Residence,EBG Group,"Hyderabad, Mumbai, Bangalore","₹ 3,60,000 - 4,60,000",2026-02-17,"MS-Office, Finance, Digital Marketing, Client Relationship Management (CRM), Business Management, Artificial intelligence, Market research",Job,data-science,internshala
+AI Content & Video Editor,Iron Lady,Bangalore,"₹ 3,60,000 - 4,20,000",2026-02-24,"Adobe Illustrator, Video Editing, Video Making, Adobe After Effects, Artificial intelligence",Job,data-science,internshala
+Product Manager,Munshot,Delhi,"₹ 3,60,000",2026-02-17,"Product Management, English Proficiency (Spoken), Product Lifecycle Management(PLM)",Job,data-science,internshala
+AI Generalist (Prompt Engineering & Full-Stack),Tradearch Market Platforms Pvt Ltd,Bangalore,"₹ 3,50,000 - 4,20,000",2026-02-24,"Web development, Prompt Engineering, Cursor (GenAI)",Job,data-science,internshala
+Inside Sales & Operations Executive,Mentoria,Mumbai,"₹ 3,50,000 - 4,10,000",2026-03-03,"Operations, Coordination, Sales",Job,data-science,internshala
+Facebook Ads & Funnel Automation Expert (Performance Marketing Role),Ai-WhatsApp,Work from home,"₹ 3,20,000 - 5,40,000",2026-03-03,"Analytical Thinking, Automation, Web Design, Facebook Ads, Effective Communication",Job,data-science,internshala
+Associate Full Stack Developer,Omni Value Solutions,Bangalore,"₹ 3,20,000 - 4,00,000",2026-02-10,"MySQL, JavaScript, Node.js, Frontend development, Backend development, Vue.js, Artificial intelligence",Job,data-science,internshala
+Executive- Key Accounts Management,Mobavenue Media Private Limited,Gurgaon,"₹ 3,20,000 - 3,80,000",2026-02-17,"Digital Marketing, Analytical Thinking, MS-Excel, Problem Solving, Effective Communication",Job,data-science,internshala
+Growth & Performance Marketing Manager – D2C,FASHION CAPITAL,Jaipur,"₹ 3,16,000 - 4,02,000",2026-03-03,"MS-Excel, Inventory Management, Marketing Strategies, Effective Communication",Job,data-science,internshala
+AI/ML Engineer – Backend & Model Fine-Tuning,Dofin Tech Private Limited,Gurgaon,"₹ 3,00,001 - 4,20,000",2026-02-10,"JavaScript, MongoDB, Machine Learning, Node.js, Deep Learning, OpenAI API, Machine Learning Operations (MLOps)",Job,data-science,internshala
+Business Analyst,Wiffy Tech,Mumbai,"₹ 3,00,000 - 8,00,000",2026-02-10,"Data Analytics, Tally, MS-Excel",Job,data-science,internshala
+Business Analyst,Azvasa Education Private Limited,Bangalore,"₹ 3,00,000 - 7,00,000",2026-03-02,"Business Analysis, B2B Sales",Job,data-science,internshala
+Business Analyst,Antano&Harini,Chennai,"₹ 3,00,000 - 7,00,000",2026-03-03,"Analytical Thinking, Data Visualization",Job,data-science,internshala
+Artificial Intelligence (AI) Specialist,Pankaj Chiraniya,Akola,"₹ 3,00,000 - 6,00,000",2026-02-17,"Data Structures, Artificial intelligence, Generative AI Tools",Job,data-science,internshala
+Data Entry Specialist,Desnor Destination,Work from home,"₹ 3,00,000 - 6,00,000",2026-03-03,"Data Analytics, Data entry, Data Interpretation, Data Analysis, Data Preparation, Data Extraction, Data Cleaning",Job,data-science,internshala
+Data Entry Associate,Desnor Destination,Work from home,"₹ 3,00,000 - 6,00,000",2026-02-24,"MS-Office, Algorithms, Data Analytics, MS-Excel, Data entry, Data Interpretation, English Proficiency (Spoken)",Job,data-science,internshala
+AI Automation Specialist,Cosy Farms,Goregaon Kh,"₹ 3,00,000 - 5,00,000",2026-02-24,"Artificial intelligence, OpenAI API, Claude",Job,data-science,internshala
+MIS Executive (Part Time/WFH),Desnor Destination,Work from home,"₹ 3,00,000 - 5,00,000",2026-03-03,"MS-Office, Team Management, Data Analytics, Data entry, Data Interpretation, MIS, Data Analysis",Job,data-science,internshala
+Computer Operator WFH Or Part Time,Desnor Destination,Work from home,"₹ 3,00,000 - 5,00,000",2026-03-03,"Data Analytics, Computer skills, Data entry, Computer Vision, Computer Architecture, Data Analysis, Data Annotation",Job,data-science,internshala
+Data Management Officer,Cosy Farms,Mumbai,"₹ 3,00,000 - 5,00,000",2026-03-03,"MS-Excel, MIS, Report Generation",Job,data-science,internshala
+AI Video Editor,Astrotalk,Noida,"₹ 3,00,000 - 5,00,000",2026-02-24,"Adobe Premiere Pro, English Proficiency (Spoken), English Proficiency (Written)",Job,data-science,internshala
+Data Entry Executive,Desnor Destination,"Faridabad, Delhi, Ghaziabad, Gurgaon, Greater Noida, Noida","₹ 3,00,000 - 5,00,000",2026-02-24,"MS-Office, Data Analytics, MS-Excel, Data Interpretation, English Proficiency (Spoken), English Proficiency (Written), Data Analysis",Job,data-science,internshala
+Data Annotator,Crossing Hurdles,Work from home,"₹ 3,00,000 - 5,00,000",2026-02-17,"Linux, JSON, Data Annotation",Job,data-science,internshala
+Technical Research And Documentation Associate,Sagar Defence Engineering Private Limited,Pune,"₹ 3,00,000 - 5,00,000",2026-02-17,"MS-Office, Project Management, Presentation skills, Critical thinking, Analytical Thinking, English Proficiency (Spoken), English Proficiency (Written)",Job,data-science,internshala
+Reddit Community & Knowledge Strategist,Eminenture Private Limited,Work from home,"₹ 3,00,000 - 4,50,000",2026-02-24,"English Proficiency (Written), Research and Analytics",Job,data-science,internshala
+Digital Performance Marketer,Apex Consulting,Ahmedabad,"₹ 3,00,000 - 4,20,000",2026-02-24,"Google Analytics, Search Engine Marketing (SEM), Digital Marketing, Google AdWords, Search Engine Optimization (SEO), Analytical Thinking, Problem Solving",Job,data-science,internshala
+Growth Associate - Brand Partnerships,Niwi,Noida,"₹ 3,00,000 - 4,00,000",2026-02-17,"B2B Sales, Business Development, Sales, Marketing",Job,data-science,internshala
+Technical Content Writer,Invictus Global Tech,Work from home,"₹ 3,00,000 - 4,00,000",2026-03-03,"Machine Learning, Artificial intelligence",Job,data-science,internshala
+Bootcamp Delivery Expert,LawSikho,Work from home,"₹ 3,00,000 - 4,00,000",2026-03-03,Marketing,Job,data-science,internshala
+Data Annotation Delivery Manager,Indika AI Private Limited,Work from home,"₹ 3,00,000 - 4,00,000",2026-02-24,"Client Relationship Management (CRM), Quality Assurance/Quality Control (QA/QC), Effective Communication, Data Annotation",Job,data-science,internshala
+Data Analytics Executive,SAI PRODUCTS & GRAFIQ PVT. LTD.,Greater Noida,"₹ 3,00,000 - 4,00,000",2026-02-24,"Data Analytics, MS-Excel, Google Sheets",Job,data-science,internshala
+Junior Business Analyst,Kimcc Services Private Limited,Bangalore,"₹ 3,00,000 - 4,00,000",2026-02-24,"Data Analytics, MS-Excel, Research and Analytics",Job,data-science,internshala
+Delivery Lead – Data Annotation Projects,Indika AI Private Limited,Delhi,"₹ 3,00,000 - 4,00,000",2026-02-17,"Leadership, Team Management, Coordination, Interpersonal skills, Effective Communication, Data Annotation",Job,data-science,internshala
+Digital Marketing Executive,Antraweb Technologies Private Limited,Mumbai,"₹ 3,00,000 - 4,00,000",2026-02-17,"Social Media Marketing, Digital Marketing, Search Engine Optimization (SEO), Instagram Marketing",Job,data-science,internshala
+Robotics Trainer,GoGlobalways,Delhi,"₹ 3,00,000 - 3,60,000",2026-03-03,"Robotics, Teaching, Artificial intelligence, Classroom Management",Job,data-science,internshala
+Influencer Marketing,Kan Man International,Gurgaon,"₹ 3,00,000 - 3,60,000",2026-02-24,"English Proficiency (Spoken), English Proficiency (Written)",Job,data-science,internshala
+Business Analyst,Birdscale Technology And Services Private Limited,Coimbatore,"₹ 3,00,000 - 3,60,000",2026-02-24,"Mobile Application Development, Client Relationship Management (CRM), Web development, Microsoft Azure, DevOps, ERP Implementation and Deployment, Jira",Job,data-science,internshala
+Jr. Business Analyst,Xomic Infotech Private Limited,Ahmedabad,"₹ 3,00,000 - 3,50,000",2026-03-03,,Job,data-science,internshala
+Jr. Business Analyst,Xomic Infotech Private Limited,Ahmedabad,"₹ 3,00,000 - 3,50,000",2026-02-10,,Job,data-science,internshala
+Junior Search Engine Optimization (SEO) Associate,IceCube Digital,Ahmedabad,"₹ 3,00,000",2026-03-03,"Google Analytics, Search Engine Marketing (SEM), Digital Marketing, Google AdWords, Search Engine Optimization (SEO), English Proficiency (Written)",Job,data-science,internshala
+Technical Content Writer,Digital Guruji,Work from home,"₹ 3,00,000",2026-02-24,"JavaScript, English Proficiency (Spoken)",Job,data-science,internshala
+Performance Ads Executive (Google & Meta Ads),Digital Guruji,Work from home,"₹ 3,00,000",2026-02-17,English Proficiency (Written),Job,data-science,internshala
+Artificial Intelligence (AI) Executive,GULF PATH,Kompally,"₹ 2,80,000 - 3,20,000",2026-02-24,"Data Structures, Machine Learning, Neural Networks, Natural Language Processing (NLP), Deep Learning, Artificial intelligence",Job,data-science,internshala
+Junior Market Research Associate,Aranca,Mumbai,"₹ 2,80,000 - 3,00,000",2026-02-24,"English Proficiency (Spoken), Research and Analytics, Market research",Job,data-science,internshala
+Application Engineer,Senso Vision System,Bangalore,"₹ 2,80,000 - 3,00,000",2026-02-17,"PLC Programming, Troubleshooting",Job,data-science,internshala
+Process Analyst,NetBounce Placement,"Ahmedabad, Gandhinagar","₹ 2,50,000 - 4,50,000",2026-02-24,"SQL, Data Analytics, Advanced Excel, Power BI",Job,data-science,internshala
+Intelligence Analyst – Strategy & Insights,Adwallz Outdoor Advertising Private Limited,Mumbai,"₹ 2,50,000 - 4,50,000",2026-02-10,"Market Analysis, Lead Generation, Data Analysis",Job,data-science,internshala
+Performance Marketing Executive (Meta & Google Ads),Beqick Consultancy Services LLP,Hyderabad,"₹ 2,50,000 - 4,10,000",2026-02-17,"Google Analytics, Google AdWords, Facebook Ads, Conversion Rate Optimization",Job,data-science,internshala
+Artificial Intelligence (AI) Specialist,Lalit Foundation,Nashik,"₹ 2,50,000 - 4,00,000",2026-02-24,"Artificial intelligence, Generative AI Tools, Prompt Engineering, AI Video Generation, AI Image Generation, AI Voiceover",Job,data-science,internshala
+Digital Marketing Specialist,Instrukart Holdings,Hyderabad,"₹ 2,50,000 - 4,00,000",2026-03-01,"Social Media Marketing, Google Analytics, Search Engine Marketing (SEM), Digital Marketing, Search Engine Optimization (SEO), Creative Writing, English Proficiency (Spoken)",Job,data-science,internshala
+Senior Executive - Performance Marketing,Telosa,Pune,"₹ 2,50,000 - 3,50,000",2026-03-03,"Google AdWords, Facebook Ads",Job,data-science,internshala
+Off-Page SEO Executive,"Euphoria Interiors (Dubai, United Arab Emirates)",Work from home,"₹ 2,50,000 - 3,00,000",2026-03-02,Search Engine Optimization (SEO),Job,data-science,internshala
+Research Analyst,DataVinci Private Limited,Work from home,"₹ 2,50,000 - 3,00,000",2026-02-24,"Digital Marketing, Attention to Detail, English Proficiency (Spoken), English Proficiency (Written), Research and Analytics, Organizational Development",Job,data-science,internshala
+MIS Executive,Ratanshi Kheraj Sarees Pvt. Ltd.,Mumbai,"₹ 2,50,000 - 2,75,000",2026-02-17,Computer skills,Job,data-science,internshala
+Performance Marketer,RThree Creatives,Chennai,"₹ 2,40,000 - 6,00,000",2026-03-03,"Digital Marketing, Market Analysis, Strategy, Marketing Strategy, Market research, Marketing Strategies, Marketing Campaigns",Job,data-science,internshala
+Financial Analyst,Indago Research Private Limited,Bangalore,"₹ 2,40,000 - 4,20,000",2026-02-10,"Financial Modeling, Research and Analytics",Job,data-science,internshala
+Google/Social Media Ads Analyst,Avanzar Health,Work from home,"₹ 2,40,000 - 4,00,000",2026-02-10,"Google AdWords, Search Engine Optimization (SEO), Instagram Marketing, Facebook Ads",Job,data-science,internshala
+Senior Content Writer,Brains Media Solutions Private Limited,Work from home,"₹ 2,40,000 - 3,60,000",2026-02-24,"Blogging, Finance, Search Engine Optimization (SEO), Banking, English Proficiency (Written), Financial Services",Job,data-science,internshala
+N8N Specialist,Axe Consultancy And Security Services LLC,Dehradun,"₹ 2,00,000 - 5,00,000",2026-02-17,"MS-Office, Automation, Artificial intelligence, FastAPI, OpenAI API, ChatGPT, Gemini",Job,machine-learning,internshala
+Artificial Intelligence (AI) Specialist,Hagerstone International Private Limited,Noida,"₹ 2,30,000 - 6,00,000",2026-03-03,"Machine Learning, Neural Networks, Natural Language Processing (NLP), Deep Learning, Artificial intelligence",Job,machine-learning,internshala
+Artificial Intelligence (AI) Executive,NOESiS Pixel Art Private Limited,Surat,"₹ 2,20,000 - 4,20,000",2026-02-10,"Artificial intelligence, VS Code, Marketing Strategies, Marketing Campaigns, Marketing Automation, ChatGPT, Gemini",Job,machine-learning,internshala
+Machine Operators,Polymer Mann,Pune,"₹ 2,05,000 - 3,10,000",2026-02-10,"Machine Learning, Operations, Computer skills",Job,machine-learning,internshala
+Associate Principal Instructor: EV Skill Centre,REES52,Raipur,"₹ 2,04,000 - 3,60,000",2026-03-03,"Machine Learning, Computer skills, BASIC",Job,machine-learning,internshala
+Machine Operator,URBAN-INFOSOFT PRIVATE LIMITED,"Mundra, Kutch","₹ 2,02,000 - 2,02,500",2026-03-03,Machine Learning,Job,machine-learning,internshala
+Automation Developer,Uma Ornaments,Mumbai,"₹ 2,00,000 - 5,00,000",2026-02-24,"OpenAI API, Generative AI Tools, ChatGPT",Job,machine-learning,internshala
+Artificial Intelligence (AI) Trainee,Woodpetra,"Naigaon, Vasai","₹ 2,00,000 - 3,00,000",2026-03-03,Computer skills,Job,machine-learning,internshala
+Associate Backend Developer,Invictus Global Tech,"Chennai, Coimbatore, Erode, Madurai, Salem, Trichey, Tirunelveli, Tamil Nadu","₹ 2,00,000 - 3,00,000",2026-02-17,"MySQL, JavaScript, SQL, Machine Learning, Node.js, Express.js, Backend development",Job,machine-learning,internshala
+Backend Developer,Invictus Global Tech,Work from home,"₹ 2,00,000 - 3,00,000",2026-02-10,"MySQL, JavaScript, Machine Learning, Node.js, Automation, Express.js, LLM evaluation",Job,machine-learning,internshala
+Speech AI Intern (ASR & TTS),PGAGI,Work from home,"₹ 2,00,000 - 3,00,000",2026-02-10,,Job,machine-learning,internshala
+Generative Engine Optimization Specialist,Invictus Global Tech,Work from home,"₹ 2,00,000 - 2,85,000",2026-03-03,"Search Engine Optimization (SEO), Machine Learning, Computer Vision, Data Visualization, Deep Learning, PyTorch, Generative AI Development",Job,machine-learning,internshala
+Machine Engineer,Sarwin HR Agency,Coimbatore,"₹ 2,00,000 - 2,16,000",2026-02-24,"Machine Learning, Operations, Automation, Maintenance",Job,machine-learning,internshala
+Data Annotator,EnFuse Solutions Private Limited,Mumbai,"₹ 2,00,000 - 2,10,000",2026-02-24,"Computer skills, Effective Communication",Job,machine-learning,internshala
+Data Engineer (AWS),Sustainability Economics.ai,Bangalore,Competitive salary,2026-03-02,,Job,machine-learning,internshala
+AI/ML Engineer,EcoRatings,Noida,Competitive salary,2026-03-02,,Job,machine-learning,internshala
+Artificial Intelligence Engineer,Hyring,Chennai,Competitive salary,2026-03-02,,Job,machine-learning,internshala
+Technical Trainer,Itvedant Education Private Limited,Maharashtra,Competitive salary,2026-03-02,,Job,machine-learning,internshala
+AI Applied Specialist,E42.ai,Work from home,Competitive salary,2026-03-02,,Job,machine-learning,internshala
+AI Engineer  Edge AI,Fire And Personal Safety Enterprises,Delhi,Competitive salary,2026-03-02,,Job,machine-learning,internshala
+Quantitative Trader,Fionics,Maharashtra,Competitive salary,2026-03-01,,Job,machine-learning,internshala
+Speech Generation Consultant,Sony Research India,Work from home,Competitive salary,2026-03-01,,Job,machine-learning,internshala
+AI RAG Engineer 2+ Years,Cydez Technologies,Kerala,Competitive salary,2026-03-01,,Job,machine-learning,internshala
+Data Engineer-AI/ML With US Product Based Company-Pune (Hybrid),Seventh Contact Hiring Solutions,Maharashtra,Competitive salary,2026-03-01,,Job,machine-learning,internshala
+Artificial Intelligence Engineer,ThoughtSol Infotech Ltd.,Noida,Competitive salary,2026-03-01,,Job,machine-learning,internshala
+Gen AI - Engineer,BharatGen,Maharashtra,Competitive salary,2026-03-03,,Job,machine-learning,internshala
+Palantir Artificial Intelligence Platform (AIP) Engineer,Empiric,Work from home,Competitive salary,2026-03-03,,Job,machine-learning,internshala
+AI Analyst,Aventis Solutions,Work from home,Competitive salary,2026-03-03,,Job,machine-learning,internshala
+Data AI Engineer,Insight Global,Bangalore,Competitive salary,2026-03-03,,Job,machine-learning,internshala
+Agentic AI Engineer,BharatGen,Maharashtra,Competitive salary,2026-03-03,,Job,machine-learning,internshala
+Artificial Intelligence Specialist,WebMantra Technology Services Pvt Ltd,Kolkata,Competitive salary,2026-03-03,,Job,machine-learning,internshala
+Data & Insight Analyst,Acquarius Capstorm Limited,Kerala,Competitive salary,2026-03-03,,Job,machine-learning,internshala
+"Sr Associate Engineer, IT Data [T500-23663]",ANSR,Nanakramguda,Competitive salary,2026-03-03,,Job,machine-learning,internshala
+Data Scientist,UST,Bangalore,Competitive salary,2026-03-03,,Job,machine-learning,internshala
+Machine Learning Engineer - Feed & Ranking Systems,Speed Radio,Work from home,Competitive salary,2026-03-03,,Job,machine-learning,internshala
+Trainer - AI Engineering,AkumenbyQ,Kerala,Competitive salary,2026-03-03,,Job,machine-learning,internshala
+Generative AI Engineer,Awign Expert,Work from home,Competitive salary,2026-03-03,,Job,machine-learning,internshala
+AI Engineer,SimuPhish,Work from home,Competitive salary,2026-03-03,,Job,machine-learning,internshala
+Marathi Data Annotator,Innodata Incorporation,Work from home,Competitive salary,2026-03-03,,Job,machine-learning,internshala
+Kannada Data Annotator,Innodata Incorporation,Work from home,Competitive salary,2026-03-03,,Job,machine-learning,internshala
+Junior AI/ML Scientist,Daice Labs,Work from home,Competitive salary,2026-03-03,,Job,machine-learning,internshala
+ML Researcher / Engineer - Voice And Speech To Speech Models (BM),Apna,Bangalore,Competitive salary,2026-02-24,,Job,machine-learning,internshala
+Applied Scientist I,Jupiter,Bangalore,Competitive salary,2026-02-24,,Job,machine-learning,internshala
+AI Engineer,Prometteur Solutions Private Limited,Maharashtra,Competitive salary,2026-02-24,,Job,machine-learning,internshala
+Experiment Engineer,Zyoin Group,Maharashtra,Competitive salary,2026-02-24,,Job,machine-learning,internshala
+Data Science & AI Instructor,Neso Academy,Noida,Competitive salary,2026-02-24,,Job,machine-learning,internshala
+AI Scientist 1,Navi,Bangalore,Competitive salary,2026-02-24,,Job,machine-learning,internshala
+Artificial Intelligence Engineer,TaskUs,Work from home,Competitive salary,2026-02-24,,Job,machine-learning,internshala
+AI Specialist,Northstar Analytics,Maharashtra,Competitive salary,2026-02-24,,Job,machine-learning,internshala
+Senior Agentic AI Engineer,Circuitry.ai,Nanakramguda,Competitive salary,2026-02-24,,Job,machine-learning,internshala
+Technical Writer,Photon,Chennai,Competitive salary,2026-02-17,,Job,machine-learning,internshala
+Data Science Instructor - Learning Centre,UpGrad,Haryana,Competitive salary,2026-02-17,,Job,machine-learning,internshala
+AIML Engineer,Tally Solutions Private Limited,Bangalore,Competitive salary,2026-02-17,,Job,machine-learning,internshala
+Data Engineer,Conscious Creations AI,Rajasthan,Competitive salary,2026-02-17,,Job,machine-learning,internshala
+Junior NLP Scientist,YAL.ai,Nanakramguda,Competitive salary,2026-02-17,,Job,machine-learning,internshala
+AI Thematic Expert,Aspire IITB Research Park Foundation,Work from home,Competitive salary,2026-02-17,,Job,machine-learning,internshala
+AI/ML Engineer,Lakkshions IT Private Limited,Nanakramguda,Competitive salary,2026-02-17,,Job,machine-learning,internshala
+Founding AI Engineer,Recro,Bangalore,Competitive salary,2026-02-10,,Job,machine-learning,internshala
+Decision Scientist,Tesco Bengaluru,Bangalore,Competitive salary,2026-02-10,,Job,machine-learning,internshala
+Artificial Intelligence Engineer,THESUNDAYGAMES,Nanakramguda,Competitive salary,2026-02-10,,Job,machine-learning,internshala
+Machine Learning Engineer,"Lytx, Inc.",Bangalore,Competitive salary,2026-02-10,,Job,machine-learning,internshala
+Quantitative Researcher,QI-CAP INVESTMENTS PRIVATE LIMITED,Bangalore,Competitive salary,2026-02-10,,Job,machine-learning,internshala
+Machine Learning Engineer,AB InBev GCC India,Bangalore,Competitive salary,2026-02-10,,Job,machine-learning,internshala
+Data Annotation,SysTechCorp Inc,Bangalore,Competitive salary,2026-02-10,,Job,machine-learning,internshala
+AI/ML Engineer,JRD Systems,Nanakramguda,Competitive salary,2026-02-10,,Job,machine-learning,internshala
+Machine Learning Engineer,MiQ,Bangalore,Competitive salary,2026-02-10,,Job,machine-learning,internshala
+Data Scientist,ProcDNA,Maharashtra,Competitive salary,2026-02-10,,Job,machine-learning,internshala
+Artificial Intelligence Engineer,Pype AI,Bangalore,Competitive salary,2026-02-10,,Job,machine-learning,internshala
+Artificial Intelligence Trainer,MethdAI - The AI Learning Platform,Noida,Competitive salary,2026-02-10,,Job,machine-learning,internshala
+Associate Consultant - Pharma / Biotechnology (1-3 Years),PV Analytica,Work from home,Competitive salary,2026-02-10,,Job,machine-learning,internshala
+Senior Machine Learning Engineer (Hybrid),AiSensy,Haryana,Competitive salary,2026-03-03,,Job,machine-learning,internshala
+Data Analyst/Data Scientist,PLEXO HR Solutions,Haryana,Competitive salary,2026-03-03,,Job,machine-learning,internshala
+Data Engineer  Python,Acuity Analytics,Haryana,Competitive salary,2026-03-03,,Job,machine-learning,internshala
+.NET AI Developer,FNZ,Haryana,Competitive salary,2026-03-03,,Job,machine-learning,internshala
+Python Gen AI Developer,Arcitech,Maharashtra,Competitive salary,2026-02-24,,Job,machine-learning,internshala
+"Lead Engineer (HPC, GPU, CUDA)",AIRA Matrix,Maharashtra,Competitive salary,2026-02-17,,Job,machine-learning,internshala
+Artificial Intelligence Engineer,Publicis Production,Work from home,Competitive salary,2026-02-17,,Job,machine-learning,internshala
+"Analyst, AI QA Engineer",Dun & Bradstreet,Chennai,Competitive salary,2026-02-10,,Job,machine-learning,internshala
+Senior Data Scientist  Deep Learning,Colan Infotech Private Limited,"Bangalore, Chennai",Competitive salary,2026-03-03,,Job,machine-learning,internshala
+Lead Data Scientist,NexusLink Services India Pvt Ltd,Ahmedabad,Competitive salary,2026-02-24,,Job,machine-learning,internshala
+Product Manager  (AI/ML),VectorStack,Bangalore,Competitive salary,2026-02-24,,Job,machine-learning,internshala
+Product Engineer - I,Hireginie,Noida,Competitive salary,2026-02-24,,Job,machine-learning,internshala
+Data Science,Reliance Retail,"Maharashtra, Bangalore",Competitive salary,2026-02-17,,Job,machine-learning,internshala
+Decision And Business Analysts,Reliance Retail,"Maharashtra, Bangalore",Competitive salary,2026-02-17,,Job,machine-learning,internshala
+AI Engineer,Twixor,Chennai,Competitive salary,2026-02-10,,Job,machine-learning,internshala
+AI Developer,Twixor,Chennai,Competitive salary,2026-02-10,,Job,machine-learning,internshala
+"Senior Data Scientist  GenAI, LLM",Colan Infotech Private Limited,"Chennai, Bangalore",Competitive salary,2026-02-10,,Job,machine-learning,internshala
+AI Automation Specialist,Huemn,Hyderabad,Competitive salary,2026-02-10,,Job,machine-learning,internshala
+Azure AI Engineer,ALIQAN Technologies,"Delhi, Maharashtra, Bangalore",Competitive salary,2026-02-10,,Job,machine-learning,internshala
+PRESALES CONSULTANT  AI Infrastructure,Intertec Softwares Pvt Ltd,Arab (United States),Competitive salary,2026-02-10,,Job,machine-learning,internshala
+Agent Developer,Recro,Noida,Competitive salary,2026-02-10,,Job,machine-learning,internshala
+Remote Business Analyst (Hindi) - 47745,Turing,Work from home,Competitive salary,2026-02-10,,Job,machine-learning,internshala
+Artificial Intelligence (AI),Emoolar Technology Private Limited,Work from home,"₹ 7,000 - 8,000 /month",2026-03-03,Data Science,Job,machine-learning,internshala
+Data Science,Emoolar Technology Private Limited,Work from home,"₹ 8,000 - 10,000 /month",2026-03-03,Data Science,Job,machine-learning,internshala
+Data Science,Oitro,Work from home,"₹ 7,000 - 9,000 /month",2026-02-17,"SQL, Data Science, Deep Learning",Job,machine-learning,internshala
+Artificial Intelligence (AI),Adtomate Solutions Private Limited,Work from home,"₹ 8,000 - 10,000 /month",2026-02-17,"Machine Learning, UI & UX Design, Frontend development, Backend development, Firebase, Artificial intelligence, Machine Learning Operations (MLOps)",Job,machine-learning,internshala
+Machine Learning Engineer,AIMonk Labs Technology Limited,Work from home,"₹ 15,000 - 25,000 /month",2026-02-17,"Python, Machine Learning, C++ Programming, Deep Learning",Job,machine-learning,internshala
+Artificial Intelligence (AI),Inorbvict Healthcare India Private Limited,Pune,"₹ 6,000 - 6,001 /month",2026-02-17,"Artificial intelligence, APIs, Artificial Intelligence Markup Language (AIML), Machine Learning Operations (MLOps), Prompt Engineering",Job,machine-learning,internshala
+AI Engineer,Pawzz,Work from home,"₹ 20,000 - 30,000 /month",2026-02-10,"MS-Office, Machine Learning, Google Docs, Web development, Web Design, English Proficiency (Spoken), English Proficiency (Written)",Job,machine-learning,internshala
+AI Engineer/AI Chatbot Developer,FinVise AI Tech Pvt Ltd,Nagpur,"₹ 2,000 - 10,000 /month",2026-02-10,"Python, Machine Learning, REST API, Backend development, Natural Language Processing (NLP), OpenAI API, Self-learning",Job,machine-learning,internshala
+Artificial Intelligence (AI),MINDTEL GLOBAL PRIVATE LIMITED,Noida,"₹ 7,000 - 10,000 /month",2026-02-10,"Python, Machine Learning, React, Natural Language Processing (NLP), Artificial intelligence, Effective Communication, Generative AI Development",Job,machine-learning,internshala
+Machine Learning (C++ Applications),Vyorius Drones Private Limited,Work from home,"₹ 3,000 - 5,000 /month",2026-02-10,"Python, Algorithms, Robotics, Git, Machine Learning, GitHub, C++ Programming",Job,machine-learning,internshala
+NLP Software Engineer (C++/LLMs),Vyorius Drones Private Limited,Work from home,"₹ 3,000 - 5,000 /month",2026-02-10,"Python, Algorithms, Git, Machine Learning, GitHub, C++ Programming, Neural Networks",Job,machine-learning,internshala
+Artificial Intelligence (AI),Relinns Technologies,"Chandigarh, Mohali","₹ 9,000 - 10,000 /month",2026-02-10,"Natural Language Processing (NLP), Artificial intelligence",Job,machine-learning,internshala
+Artificial Intelligence (AI),AKOIN,Work from home,"₹ 30,000 - 35,000 /month",2026-02-10,"Data Structures, Machine Learning, Data Science, Artificial intelligence",Job,machine-learning,internshala
+Software Development,Robin Home AI,Bangalore,"₹ 30,000 /month",2026-02-10,"Python, LLMOps",Job,machine-learning,internshala
+Python Development,Megaminds IT Services,Work from home,"₹ 8,000 - 15,000 /month",2026-02-10,"Java, Python, Django, Machine Learning, Computer Vision, REST API, Flask",Job,machine-learning,internshala
+Backend Development,Alemeno,Work from home,"₹ 15,000 - 20,000 /month",2026-02-10,"OpenCV, Python, Git, Django, Machine Learning, Node.js, NoSQL",Job,machine-learning,internshala
+Artificial Intelligence (AI),Global Groupware Solutions Limited,Work from home,"₹ 25,000 - 35,000 /month",2026-02-10,"Python, Machine Learning, Artificial intelligence",Job,machine-learning,internshala
+Full Stack Developer,Internify,Kochi,"₹ 4,00,000 - 5,00,000",2026-03-02,"MongoDB, Node.js, Express.js, React, REST API",Job,web-development,internshala
+Backend Developer,Internify,Ernakulam,"₹ 4,20,000",2026-03-03,"MongoDB, Git, Node.js, REST API, JWT",Job,web-development,internshala
+React.JS Developer,Chaintech Network,Ahmedabad,"₹ 2,00,000 - 2,40,000",2026-03-03,"JavaScript, HTML 5, Bootstrap, React, REST API, React Native, Redux",Job,web-development,internshala
+Front End Developer,Quantasis Private Limited,Mumbai,"₹ 2,10,000 - 2,20,025",2026-03-03,"HTML, CSS, JavaScript, jQuery, Bootstrap, AngularJS, React",Job,web-development,internshala
+Full Stack Developer,Respirit Healthcare Private Limited,Guwahati,"₹ 3,00,000 - 5,00,000",2026-03-03,"MySQL, Cloud Computing, Django, Node.js, React, Flutter",Job,web-development,internshala
+Full Stack Developer,Warewe Consultancy Private Limited,Gurgaon,"₹ 3,00,000 - 5,00,000",2026-03-03,"MongoDB, Node.js, PostgreSQL, Docker, REST API, RabbitMQ, TypeScript",Job,web-development,internshala
+Full Stack Developer,Internify,Ernakulam,"₹ 4,20,000",2026-03-03,"MongoDB, Node.js, Express.js, React, TypeScript",Job,web-development,internshala
+Web Developer,ALMI Blogging School Pro (Almi Production Land Solar Private Limited),Chennai,"₹ 2,00,000 - 2,20,000",2026-03-01,"PHP, MySQL, HTML, CSS, JavaScript, WordPress, Node.js",Job,web-development,internshala
+Senior Laravel Developer,FynTune Solution Private Limited,"Thane, Navi Mumbai, Mumbai, Turbhe","₹ 3,00,000 - 6,00,000",2026-02-24,"PHP, MySQL, Laravel, Object Oriented Programming (OOP)",Job,web-development,internshala
+Full Stack Developer,Godavari Biorefineries Limited,Mumbai,"₹ 2,50,000 - 3,00,000",2026-02-10,"HTML, CSS, JavaScript, Git, Android, MERN",Job,web-development,internshala
+Web Designer,Tender Palm Super Speciality Hospital,Lucknow,"₹ 2,00,000 - 2,40,000",2026-02-24,"HTML, CSS, JavaScript, WordPress, Search Engine Optimization (SEO), Tailwind CSS",Job,web-development,internshala
+Associate Software Engineer,Zorvyn,Work from home,"₹ 18,00,000",2026-03-01,"Algorithms, Data Structures",Job,web-development,internshala
+Front-End Development Engineer,Weekday,Work from home,"₹ 15,00,000 - 20,00,000",2026-02-10,JavaScript,Job,web-development,internshala
+ServiceNow Developers,ALIQAN Technologies,Work from home,"₹ 15,00,000 - 18,00,000",2026-02-10,,Job,web-development,internshala
+Front End Developer,Brixo,Work from home,"₹ 12,00,000 - 24,00,000",2026-02-10,React Native,Job,web-development,internshala
+CMS Lead,Subhanu Technologies & Solutions,Bangalore,"₹ 12,00,000 - 24,00,000",2026-02-17,,Job,web-development,internshala
+React Native Developer,ALIQAN Technologies,Bangalore,"₹ 12,00,000 - 16,80,000",2026-02-10,,Job,web-development,internshala
+Full Stack Developer,Lit Amor,Work from home,"₹ 10,00,000 - 18,00,000",2026-02-24,JavaScript,Job,web-development,internshala
+.NET Full Stack Developer (Desktop Applications),Taxmann,Delhi,"₹ 10,00,000 - 13,00,000",2026-02-10,,Job,web-development,internshala
+Technical Support Desk Supervisor,Wink Inc,Gurgaon,"₹ 8,00,000 - 13,00,000",2026-02-10,"Microsoft Azure, Database Testing",Job,web-development,internshala
+Software Developer (Infrastructure Focus),Hello Edge,Bangalore,"₹ 8,00,000 - 10,00,000",2026-02-17,"Node.js, CI/CD, AWS CloudFormation",Job,web-development,internshala
+Web Developer,Digital Heroes,Lucknow,"₹ 8,00,000",2026-02-10,"PHP, HTML, CSS, JavaScript, jQuery, WordPress, Node.js",Job,web-development,internshala
+Software Developer,"Streams Technologies (Paris, France)",Work from home,"₹ 8,00,000",2026-02-10,"PostgreSQL, Laravel, Elasticsearch, APIs",Job,web-development,internshala
+Associate Software Developer,Earnest Fintech Limited,Noida,"₹ 6,60,000 - 7,95,000",2026-03-03,"Node.js, Web development, React, Flutter, Backend development",Job,web-development,internshala
+Associate JavaScript Developer,Zulitech Solution,Work from home,"₹ 6,00,000 - 9,00,000",2026-03-03,"HTML, CSS, JavaScript",Job,web-development,internshala
+Junior Software Developer,Zulitech Solution,Work from home,"₹ 6,00,000 - 9,00,000",2026-03-03,"Java, HTML, CSS",Job,web-development,internshala
+Associate Angular.js Developer,Zulitech Solution,Work from home,"₹ 6,00,000 - 9,00,000",2026-03-03,"HTML, CSS, JavaScript, AngularJS, Node.js",Job,web-development,internshala
+Associate Full Stack Developer,Zulitech Solution,Work from home,"₹ 6,00,000 - 9,00,000",2026-03-03,"HTML, CSS, JavaScript",Job,web-development,internshala
+Associate Java Developer,Zulitech Solution,Work from home,"₹ 6,00,000 - 9,00,000",2026-03-03,"Java, MySQL",Job,web-development,internshala
+Associate Front End Developer,Zulitech Solution,Work from home,"₹ 6,00,000 - 8,00,000",2026-03-03,"HTML, CSS, JavaScript",Job,web-development,internshala
+Backend Developer,TestUnity,Bangalore,"₹ 6,00,000 - 7,00,000",2026-02-10,"MongoDB, Node.js, Express.js",Job,web-development,internshala
+Full Stack Developer,Tradearch Market Platforms Pvt Ltd,"Bangalore, Ahemdabad Kasora","₹ 6,00,000 - 7,00,000",2026-02-10,"Java, MySQL, MongoDB, Node.js, Next.js",Job,web-development,internshala
+Web Developer,HEXA SOLUTIONS,Work from home,"₹ 5,50,000 - 7,00,000",2026-02-24,"PHP, MySQL, HTML, CSS, JavaScript, jQuery, HTML 5",Job,web-development,internshala
+Frontend Engineer,Brudite Private Limited,Jaipur,"₹ 5,50,000 - 7,00,000",2026-02-10,"React.Js, TypeScript",Job,web-development,internshala
+Front End Developer,Digital Heroes,Lucknow,"₹ 5,40,000",2026-02-10,"HTML, CSS, JavaScript, jQuery, Node.js, React",Job,web-development,internshala
+Software Developer,Xenotix Tech,"Ghaziabad, Modinagar","₹ 5,00,000 - 10,00,000",2026-02-17,"CSS, JavaScript, Node.js, Express.js, React, React Native, Next.js",Job,web-development,internshala
+Full Stack Developer,"Immense Inc. (Toronto, Canada)",Work from home,"₹ 5,00,000 - 10,00,000",2026-02-10,"HTML, CSS, JavaScript, .NET, AngularJS, Microsoft Azure, REST API",Job,web-development,internshala
+Java Developer,FynTune Solution Private Limited,"Navi Mumbai, Mumbai, Turbhe","₹ 5,00,000 - 9,00,000",2026-03-02,"Java, MySQL, Hibernate ORM(Java), Spring Boot, Microservices, JPA (Java Persistence API)",Job,web-development,internshala
+Backend Developer,Sunday Labs,Gurgaon,"₹ 5,00,000 - 6,50,000",2026-02-17,"Java, MySQL, MongoDB, Node.js, REST API, Next.js, Spring Boot",Job,web-development,internshala
+Senior Full Stack Developer,IIDE Education Private Limited,Mumbai,"₹ 5,00,000 - 6,00,000",2026-02-24,"JavaScript, SQL, Git, CMS (Content Management System), React, REST API, Tailwind CSS",Job,web-development,internshala
+Junior Support Engineer,Neotas,Work from home,"₹ 5,00,000",2026-02-24,"HTML, CSS, JavaScript, MongoDB",Job,web-development,internshala
+Full Stack Developer,Tradearch Market Platforms Pvt Ltd,Work from home,"₹ 4,80,000 - 7,20,000",2026-02-24,"MySQL, JavaScript, MongoDB, Node.js, Express.js, React",Job,web-development,internshala
+MERN Stack Web Developer,Purple Block,Bangalore,"₹ 4,80,000 - 6,00,000",2026-02-24,"MongoDB, Node.js, Express.js, React",Job,web-development,internshala
+Full Stack Developer,Kreative Motion Ventures LLP,Work from home,"₹ 4,80,000 - 6,00,000",2026-02-17,"Node.js, PostgreSQL, Flutter, TypeScript, Amazon EC2, AWS Lambda",Job,web-development,internshala
+Support Engineer (Technical),Mea Platform Technologies Pvt Ltd,Work from home,"₹ 4,00,001 - 5,00,003",2026-02-24,"MySQL, PostgreSQL, GitHub, Web development, AWS Lambda",Job,web-development,internshala
+Full Stack Developer,RJ Fintech Solutions Private Limited,Mumbai,"₹ 4,00,000 - 10,00,000",2026-02-24,"MySQL, JavaScript, MongoDB, Node.js, PostgreSQL, Express.js, React",Job,web-development,internshala
+Back End Developer,Twixor,Chennai,"₹ 4,00,000 - 9,00,000",2026-02-10,,Job,web-development,internshala
+Front End Developer,Global Groupware Solutions Limited,Work from home,"₹ 4,00,000 - 8,00,000",2026-02-10,"HTML, CSS, JavaScript, React Native",Job,web-development,internshala
+Software Developer,Trivora Systems,Work from home,"₹ 4,00,000 - 7,00,000",2026-03-03,"Java, MySQL, HTML, CSS, C++ Programming",Job,web-development,internshala
+Web Developer,Trivora Systems,Work from home,"₹ 4,00,000 - 7,00,000",2026-03-03,"PHP, HTML, CSS, JavaScript, WordPress",Job,web-development,internshala
+Front End Developer,Trivora Systems,Work from home,"₹ 4,00,000 - 7,00,000",2026-03-03,"HTML, CSS, JavaScript, AngularJS, Node.js, React",Job,web-development,internshala
+Junior Software Developer,Trivora Systems,Work from home,"₹ 4,00,000 - 7,00,000",2026-02-17,"Java, MySQL, HTML, CSS, C++ Programming",Job,web-development,internshala
+Junior Web Developer,Trivora Systems,Work from home,"₹ 4,00,000 - 7,00,000",2026-02-17,"PHP, MySQL, HTML, CSS, JavaScript, WordPress",Job,web-development,internshala
+Junior Front End Developer,Trivora Systems,Work from home,"₹ 4,00,000 - 7,00,000",2026-02-17,"HTML, CSS, JavaScript, AngularJS, React",Job,web-development,internshala
+Full Stack Developer,Neurasix AI Private Limited,Work from home,"₹ 4,00,000 - 6,00,000",2026-02-17,"Node.js, React",Job,web-development,internshala
+Technical Project Manager- Martech SaaS,Warewe Consultancy Private Limited,Gurgaon,"₹ 4,00,000 - 6,00,000",2026-02-10,"Product Management, Web development, Product Development, APIs",Job,web-development,internshala
+Node.js Developer,Infoware,"Ahmedabad, Gandhinagar","₹ 4,00,000 - 5,00,000",2026-03-03,"MySQL, MongoDB, Node.js, Express.js, React, REST API, TypeScript",Job,web-development,internshala
+Junior Full Stack Developer,Yavda Analytics Private Limited,Work from home,"₹ 4,00,000 - 5,00,000",2026-02-10,"HTML, CSS, JavaScript, MongoDB, Node.js, React",Job,web-development,internshala
+Backend Developer,Amrutam Pharmaceuticals,Gurgaon,"₹ 4,00,000 - 5,00,000",2026-02-10,"MySQL, MongoDB, PostgreSQL, REST API",Job,web-development,internshala
+Full Stack Developer,CipherSchools,"Chandigarh, Delhi, Gurgaon, Noida","₹ 4,00,000 - 4,50,000",2026-02-24,"JavaScript, MongoDB, Node.js, React, TypeScript, CI/CD, Next.js",Job,web-development,internshala
+Go Developer,Asian School Of Design And Applied Vastu,Noida,"₹ 4,00,000",2026-02-17,Java,Job,web-development,internshala
+Search Engine Optimization (SEO) Specialist,Cosmo Solutions Private Limited,Gurgaon,"₹ 3,80,000 - 5,00,000",2026-03-03,"Social Media Marketing, WordPress, Digital Marketing, Search Engine Optimization (SEO)",Job,web-development,internshala
+Software Developer,SaffireTech,Mumbai,"₹ 3,70,000",2026-02-17,"Java, MySQL, HTML, CSS, JavaScript, C Programming, C++ Programming",Job,web-development,internshala
+"Frontend Developer – React, Next.js & React Native",Digivikreta,Work from home,"₹ 3,65,000 - 5,60,000",2026-03-03,"CSS, JavaScript, Git, GitHub, React, REST API, React Native",Job,web-development,internshala
+"Full Stack Software Developer (In-Office, Agra)",Bluespace Studio,Agra,"₹ 3,60,000 - 4,80,000",2026-02-10,"HTML CSS, JavaScript, Git, Node.js, PostgreSQL, Express.js, Frontend development",Job,web-development,internshala
+Web Developer,Stashpro,Pune,"₹ 3,60,000 - 4,20,000",2026-02-17,"HTML, CSS, JavaScript, JSON, Shopify",Job,web-development,internshala
+Service Support Executive,JR Technik Services LLP,Mumbai,"₹ 3,60,000 - 4,00,000",2026-03-03,"MS-Office, Time Management, Multitasking, Problem Solving, Enterprise Resource Planning(ERP), Email Management, Conflict Management",Job,web-development,internshala
+L 1 Support Engineer,Network Science,Mumbai,"₹ 3,50,000 - 5,00,000",2026-03-03,"SQL, HTTP, JSON, REST API, Microservices",Job,web-development,internshala
+Front End Developer,VPLytics Solutions Private Limited,Pune,"₹ 3,50,000 - 5,00,000",2026-02-24,"HTML, CSS, JavaScript, jQuery, Bootstrap, React, React Native",Job,web-development,internshala
+Software Developer,Native Minds Technologies Private Limited,Bangalore,"₹ 3,50,000 - 4,50,000",2026-02-10,TypeScript,Job,web-development,internshala
+Junior Software Developer,JEPD PrimeWorks,Ludhiana,"₹ 3,44,000 - 4,80,000",2026-02-24,"Java, JavaScript, .NET, C++ Programming, Flutter, Dart, Firebase",Job,web-development,internshala
+Zoho Creator Developer,BusinessScales,Work from home,"₹ 3,25,000 - 4,50,000",2026-03-03,"HTML, JavaScript, Deluge",Job,web-development,internshala
+Junior Front End Developer,SaffireTech,"Palghar, Thane, Mumbai","₹ 3,24,000 - 4,00,000",2026-02-17,"HTML, CSS, JavaScript, jQuery, Bootstrap, Frontend development, Responsive Design",Job,web-development,internshala
+Full Stack Developer,Givni Private Limited,Patna,"₹ 3,20,000 - 7,40,000",2026-02-10,"PHP, MySQL, HTML, Laravel",Job,web-development,internshala
+Junior Full Stack Developer,Prepdha.ai,Hyderabad,"₹ 3,10,000 - 9,20,000",2026-02-10,"JavaScript, Node.js, React, Next.js",Job,web-development,internshala
+Associate Full Stack Developer,Prepdha.ai,Hyderabad,"₹ 3,10,000 - 9,15,000",2026-02-10,"JavaScript, Node.js, React, REST API, Next.js, Web Application Testing",Job,web-development,internshala
+Front End Developer,Akshay Paranjape,Work from home,"₹ 3,05,000",2026-02-24,"HTML, Node.js, React",Job,web-development,internshala
+Frontend Developer,Todtechnologies,"Delhi, Greater Noida, Noida","₹ 3,00,000 - 8,00,000",2026-02-10,"React, Three.js",Job,web-development,internshala
+Jr. Java Developer,Xomic Infotech Private Limited,Ahmedabad,"₹ 3,00,000 - 7,20,000",2026-02-24,,Job,web-development,internshala
+Front End Developer,Vasudeva Vivek,"Secunderabad, Hyderabad","₹ 3,00,000 - 7,00,000",2026-02-10,"CSS, JavaScript, HTML 5, Bootstrap, React, REST API, React Native",Job,web-development,internshala
+Senior Java Developer,Dhundhoo,Nagpur,"₹ 3,00,000 - 6,00,000",2026-03-03,"Java, MongoDB, PostgreSQL, Apache Kafka, Spring Boot, Amazon EC2, Time Series Analysis",Job,web-development,internshala
+Software Engineer - Frontend,Aframe Studio,Work from home,"₹ 3,00,000 - 6,00,000",2026-02-24,"CSS, JavaScript, HTML 5, CSS3, React, TypeScript, Next.js",Job,web-development,internshala
+Web Developer,Akashaveda Technology Pvt. Ltd.,Work from home,"₹ 3,00,000 - 6,00,000",2026-02-24,"MySQL, HTML, CSS, JavaScript, Node.js, PostgreSQL, Express.js",Job,web-development,internshala
+Junior Web Developer,Asmi Holidays,Mumbai,"₹ 3,00,000 - 6,00,000",2026-02-17,"HTML, JavaScript, WordPress, Search Engine Optimization (SEO), Web Design, Shopify",Job,web-development,internshala
+Laravel Developer (0-2 Years Experience),Achieveee Design And Development Private Limited,Work from home,"₹ 3,00,000 - 6,00,000",2026-02-17,"PHP, MySQL, Ubuntu, Git, Apache Server, Laravel",Job,web-development,internshala
+Junior Computer Operator,HYPEWARE,Work from home,"₹ 3,00,000 - 6,00,000",2026-02-17,MS-Office,Job,web-development,internshala
+Front End Developer,Swamy Fleet,Work from home,"₹ 3,00,000 - 5,00,000",2026-02-24,"CSS, GitHub, React, TypeScript",Job,web-development,internshala
+Full Stack Developer,Rezolut Infotech,Mumbai,"₹ 3,00,000 - 5,00,000",2026-02-24,"MySQL, HTML, CSS, JavaScript, jQuery, Bootstrap, MongoDB",Job,web-development,internshala
+Junior Computer Operator Associate,HYPEWARE,Work from home,"₹ 3,00,000 - 5,00,000",2026-02-17,MS-Office,Job,web-development,internshala
+PHP Developer,Coding Clave LLP,Lucknow,"₹ 3,00,000 - 4,80,000",2026-03-03,"PHP, MySQL, Git, Laravel, GitHub, REST API, Model View Controller(MVC)",Job,web-development,internshala
+Junior Full Stack Developer,Shubhchintak,Work from home,"₹ 3,00,000 - 4,50,000",2026-02-10,"Java, MySQL, HTML, CSS, JavaScript, MongoDB, Node.js",Job,web-development,internshala
+Shopify/Website Developer,Baweja Media,Work from home,"₹ 3,00,000 - 4,20,000",2026-03-02,"JavaScript, WordPress, Shopify, Webflow",Job,web-development,internshala
+Project Manager (SEO & Content Operations),BrandKlick,Work from home,"₹ 3,00,000 - 4,20,000",2026-02-24,"Content Writing, WordPress, Search Engine Optimization (SEO), Canva, Content Editing",Job,web-development,internshala
+XML Conversion Specialist,QA Solvers,Work from home,"₹ 3,00,000 - 4,00,000",2026-03-03,XML,Job,web-development,internshala
+Front End Developer,Codix Software Solutions,Work from home,"₹ 3,00,000 - 4,00,000",2026-02-24,"CSS, JavaScript",Job,web-development,internshala
+Node.js Developer,Warewe Consultancy Private Limited,Gurgaon,"₹ 3,00,000 - 4,00,000",2026-02-10,"JavaScript, Node.js, Express.js, REST API, Amazon Web Services (AWS), Redux",Job,web-development,internshala
+WordPress Developer,"Euphoria Interiors (Dubai, United Arab Emirates)",Work from home,"₹ 3,00,000 - 3,60,000",2026-03-03,"PHP, HTML, CSS, JavaScript, WordPress, Search Engine Optimization (SEO)",Job,web-development,internshala
+Shopify Developer,Skillinabox Learning Solutions Private Limited,Noida,"₹ 3,00,000 - 3,60,000",2026-02-17,"JavaScript, HTML 5, CSS3, Web Design, Shopify, Effective Communication",Job,web-development,internshala
+Front End Developer,Aerocare Air Ambulance Service,Chennai,"₹ 3,00,000 - 3,60,000",2026-02-17,"HTML, CSS, JavaScript, Bootstrap, React",Job,web-development,internshala
+Technical Support,Hftsolution,Work from home,"₹ 3,00,000 - 3,60,000",2026-02-17,Stock Trading,Job,web-development,internshala
+Web Developer,Nayoda,Bangalore,"₹ 3,00,000",2026-02-24,"HTML, CSS, JavaScript",Job,web-development,internshala
+Java Developer,Rezolut Infotech,"Mumbai, Maharashtra","₹ 3,00,000",2026-02-24,"Java, MySQL, MongoDB, Spring MVC",Job,web-development,internshala
+Junior Software Developer,Now IT Systems,Work from home,"₹ 2,80,000 - 3,50,000",2026-02-10,"Java, HTML, CSS, JavaScript, Node.js, React",Job,web-development,internshala
+"WordPress Designer & Developer (On-Site, Full-Time And Graduates Only)",Kweesha,Lucknow,"₹ 2,80,000 - 3,00,000",2026-02-10,WordPress,Job,web-development,internshala
+Creative Content Producer,BubbleNut Wash,Bangalore,"₹ 2,76,000 - 3,60,000",2026-03-03,"Adobe Illustrator, WordPress, Adobe Premiere Pro",Job,web-development,internshala
+Full Stack Developer,Arham Agro Exports,Mumbai,"₹ 2,65,000 - 3,25,000",2026-03-03,"Java, JavaScript, Node.js, PostgreSQL, React",Job,web-development,internshala
+IT Administrator,FLUXUSFORGE,Delhi,"₹ 2,55,000 - 3,08,000",2026-02-17,"SYSTEM ADMINISTRATOR, WAN, LAN",Job,web-development,internshala
+Senior React + Typescript Developer,AutoCRUD,Work from home,"₹ 2,50,000 - 6,00,000",2026-02-24,"Node.js, React, React Native, TypeScript",Job,web-development,internshala
+Java Developer,AIContentMatic,Work from home,"₹ 2,50,000 - 5,00,000",2026-02-10,"Java, MySQL, Data Structures, Spring Boot",Job,web-development,internshala
+Automation Expert,Axe Consultancy And Security Services LLC,Work from home,"₹ 2,50,000 - 4,50,000",2026-03-03,"SQL, Client Relationship Management (CRM), JSON, Automation, REST API",Job,web-development,internshala
+Software Developer,Novatech Business Solutions,Sirhind,"₹ 2,50,000 - 4,50,000",2026-02-24,"MySQL, HTML, JavaScript, MongoDB, Node.js, React, REST API",Job,web-development,internshala
+Junior Full Stack Developer,Meganous Innovations,Kochi,"₹ 2,50,000 - 4,40,000",2026-02-24,"MongoDB, Node.js, React",Job,web-development,internshala
+WEB DEVELOPER (Framer + Shopify + Basic SEO),Beqick Consultancy Services LLP,Hyderabad,"₹ 2,50,000 - 4,10,000",2026-02-17,"Search Engine Optimization (SEO), UI & UX Design, React Native, Shopify, MERN, Framer, Vibe Coding",Job,web-development,internshala
+Wordpress & Shopify Developer,Keval Raval,"Ahmedabad, Gandhinagar","₹ 2,50,000 - 4,00,000",2026-02-10,"WordPress, Shopify",Job,web-development,internshala
+Workflow Automation Specialist (n8n Expert),Axe Consultancy And Security Services LLC,Work from home,"₹ 2,50,000 - 4,00,000",2026-02-17,"SQL, Client Relationship Management (CRM), JSON, Automation, REST API",Job,web-development,internshala
+Computer Operator Associate,Kluebit,Work from home,"₹ 2,50,000 - 4,00,000",2026-02-10,MS-Office,Job,web-development,internshala
+Junior Angular.js Developer,Bursys Infotech,Panchkula,"₹ 2,50,000 - 3,24,000",2026-02-24,"HTML, CSS, JavaScript, Angular",Job,web-development,internshala
+Full Stack Developer,Remitout Service Private Limited,Mumbai,"₹ 2,50,000 - 3,00,000",2026-02-24,"MongoDB, Node.js, Stripe Payment API, Next.js, JWT, AWS CloudFormation",Job,web-development,internshala
+WordPress Developer,Digimyze Media,Work from home,"₹ 2,50,000 - 3,00,000",2026-02-24,"PHP, HTML, CSS, JavaScript, WordPress, Web Design",Job,web-development,internshala
+Junior WordPress Developer,Ultraplugins Store,Work from home,"₹ 2,50,000 - 3,00,000",2026-02-24,"PHP, HTML, CSS, JavaScript, WordPress, Search Engine Optimization (SEO)",Job,web-development,internshala
+Software Developer,Mindful Gurukul Private Limited,Mumbai,"₹ 2,40,000 - 6,00,000",2026-02-24,"Cloud Computing, Node.js, Mobile Application Development, Web development, React Native, Effective Communication, MERN",Job,web-development,internshala
+Laravel Developer,Rutecho IT Solution,Work from home,"₹ 2,40,000 - 5,00,000",2026-02-17,"PHP, MySQL, HTML, jQuery, AJAX, CodeIgniter, Laravel",Job,web-development,internshala
+Full Stack Developer,Hys & Beauty Private Limited,Jaipur,"₹ 2,40,000 - 5,00,000",2026-02-17,"Node.js, Frontend development, React, Backend development, Firebase, Cloud Firestore",Job,web-development,internshala
+Junior Software Developer,Ullasindia It Solution Limited,Rajkot,"₹ 2,40,000 - 4,80,000",2026-02-17,"MySQL, SQL, Node.js, PostgreSQL, Express.js, React, Database Management System (DBMS)",Job,web-development,internshala
+Laravel Developer,Design Diagnosis,Work from home,"₹ 2,40,000 - 4,20,000",2026-02-17,"MySQL, CSS, HTML 5, Laravel",Job,web-development,internshala
+Java Backend Developer,Boolment Software Development Private Limited,Gurgaon,"₹ 2,40,000 - 4,20,000",2026-02-10,,Job,web-development,internshala
+Web Developer,AlphaBeta Marketing Solutions,Mumbai,"₹ 2,40,000 - 3,60,000",2026-03-03,"PHP, HTML, JavaScript, WordPress, Shopify",Job,web-development,internshala
+Front End Developer,Boomerang,Work from home,"₹ 2,40,000 - 3,60,000",2026-02-24,"HTML, CSS, JavaScript, jQuery, Bootstrap, AngularJS, Node.js",Job,web-development,internshala
+IT Executive,Britts Imperial University College,Mumbai,"₹ 2,40,000 - 3,60,000",2026-02-10,Configuration Management,Job,web-development,internshala
+Full Stack Developer,Digital Ipsum,Work from home,"₹ 2,40,000 - 3,60,000",2026-02-10,"WordPress, Search Engine Optimization (SEO), UI & UX Design, React, Shopify",Job,web-development,internshala
+Software Developer,Luminar Media,Work from home,"₹ 2,40,000 - 3,00,000",2026-02-10,"MySQL, HTML, CSS, JavaScript, MongoDB, Node.js, React",Job,web-development,internshala
+Full Stack Developer,Sprite Genix,Work from home,"₹ 2,40,000 - 2,60,000",2026-02-10,"PHP, MySQL, HTML, CSS, JavaScript, MongoDB, AngularJS",Job,web-development,internshala
+Flutter Developer (1 Year Experience),Humors Tech Private Limited,Bangalore,"₹ 2,40,000",2026-03-03,"GitHub, Flutter, Dart, iOS, Android",Job,web-development,internshala
+Implementation Engineer,PurpleDocs,"Ahmedabad, Vadodara","₹ 2,40,000",2026-02-24,"Computer Networking, TCP/IP",Job,web-development,internshala
+Backend Developer,SeekHelpers,Work from home,"₹ 2,40,000",2026-03-01,"Algorithms, Data Structures, MongoDB, Node.js, REST API, TypeScript, Postman",Job,web-development,internshala
+Data Analyst,Vardhman Electronics Pvt. Ltd,Delhi,Competitive salary,2026-02-10,,Job,data-analyst,internshala
+Data Analyst,De Facto Infotech,Mohali,Competitive salary,2026-02-10,,Job,data-analyst,internshala
+Data Analyst,I-PAC (Indian Political Action Committee),Nanakramguda,Competitive salary,2026-02-10,,Job,data-analyst,internshala
+Data Analyst,IConsultera,Work from home,Competitive salary,2026-03-02,,Job,data-analyst,internshala
+Data Analyst,MaxEd,Kerala,Competitive salary,2026-03-02,,Job,data-analyst,internshala
+Data Analyst,Godrej Capital,Maharashtra,Competitive salary,2026-03-03,,Job,data-analyst,internshala
+Data Analyst,The Hiring Company,Assam,Competitive salary,2026-03-03,,Job,data-analyst,internshala
+Data Analyst,Quantum Leap Learning Solutions Pvt Ltd,Bangalore,Competitive salary,2026-03-03,,Job,data-analyst,internshala
+Data Analyst,Aptita,Nanakramguda,Competitive salary,2026-02-24,,Job,data-analyst,internshala
+Data Analyst,Arcana,Work from home,Competitive salary,2026-02-10,,Job,data-analyst,internshala
+Application Support Specialist,Landmark Group,Bangalore,Competitive salary,2026-02-17,,Job,java,internshala
+Backend Developer  Java,VAHN,Bangalore,Competitive salary,2026-02-24,,Job,java,internshala
+Geographic Information System Developer,Esri India,Maharashtra,Competitive salary,2026-03-01,,Job,java,internshala
+Backend Developer (Java - Spring Boot),Apical Management Consultancies,Delhi,Competitive salary,2026-03-03,,Job,java,internshala
+"Sr Associate Engineer, IT Software [T500-23626]",ANSR,Work from home,Competitive salary,2026-03-03,,Job,java,internshala
+Java Backend Developer,Innspark,Kerala,Competitive salary,2026-03-03,,Job,java,internshala
+Technical Trainer,Intellect Design Arena Ltd,Chennai,Competitive salary,2026-02-24,,Job,java,internshala
+"Sr Associate Engineer, IT Software [T500-23770]",ANSR,Nanakramguda,Competitive salary,2026-03-03,,Job,java,internshala
+Java Architect,GGS Staffing Private Limited,Work from home,"₹ 20,00,000 - 25,00,000",2026-03-03,,Job,java,internshala
+Associate Android App Developer,Zulitech Solution,Work from home,"₹ 6,00,000 - 9,00,000",2026-03-03,"Java, REST API, Android",Job,java,internshala
+Android App Developer,Trivora Systems,Work from home,"₹ 4,00,000 - 7,00,000",2026-03-03,"Java, XML, REST API, Android, Kotlin, Firebase",Job,java,internshala
+Android App Developer,Galanto Innovations Private Limited,Gandhinagar,"₹ 4,00,000 - 4,80,000",2026-02-17,"Java, Android, Kotlin, Firebase",Job,java,internshala
+Junior Software Developer,Reconzo,Work from home,"₹ 3,60,000 - 4,80,000",2026-02-17,"Java, MongoDB, Git, PostgreSQL, HTTP, REST API, Spring Boot",Job,java,internshala
+Product Manager,Kravvex Fresh Pvt Ltd,Work from home,"₹ 3,50,000 - 5,50,000",2026-02-17,"Java, Market Analysis, Mobile Application Development, Product Management, Marketing Strategies",Job,java,internshala
+Android App Developer,TRISARAN GRAMEEN MICRO APPEX FEDERATION,Work from home,"₹ 3,24,000",2026-02-10,"Java, REST API, Android, Firebase",Job,java,internshala
+Software Engineer,AdElement,Pune,"₹ 3,00,000 - 10,00,000",2026-02-10,"Java, J2EE, Spring Boot",Job,java,internshala
+Associate Software Developer,Wegrowit Technologies India Private Limited,"Patna, Ranchi","₹ 3,00,000 - 6,00,000",2026-02-10,"Java, MySQL, ASP.NET",Job,java,internshala
+Android App Developer,GULF PATH,Kompally,"₹ 2,60,000 - 3,20,000",2026-03-03,"Java, XML, Flutter, REST API, Dart, Android, Kotlin",Job,java,internshala
+Technical Support Voice Process,FlyHigh Technologies,Chennai,"₹ 2,52,000",2026-02-17,"Java, SQL",Job,java,internshala
+Mobile App Developer,Trackingbees Private Limited,"Greater Noida, Noida","₹ 2,50,000 - 4,80,000",2026-02-10,"Java, Flutter, REST API, Dart, iOS, Android, Kotlin",Job,java,internshala
+Implementation Engineer - Trainee,Amrita Technologies,"Pune, Maharashtra","₹ 2,16,000 - 2,64,000",2026-03-03,"Java, MySQL",Job,java,internshala
+Full Stack Java Developer,Aaptatt,Work from home,"₹ 2,10,000 - 2,50,000",2026-02-17,"MySQL, HTML, CSS, JavaScript, SQL, Git, Node.js",Job,java,internshala
+Android App Developer,Rydeu Logistics UG,Work from home,"₹ 2,05,000 - 2,20,000",2026-02-10,"Java, React Native",Job,java,internshala
+Android/iOS Developer,Rydeu Logistics UG,Work from home,"₹ 2,05,000 - 2,20,000",2026-02-10,"Java, React Native",Job,java,internshala
+Robotics And AI Trainer,Robo Labs,"Kolkata, Howrah","₹ 2,00,001 - 3,05,000",2026-02-17,"Java, ARM Microcontroller, Robotics, Teaching, Arduino, C Programming, C++ Programming",Job,java,internshala
+Trainee Test Engineer,Pro-Test Consulting Private Limited,Bangalore,"₹ 2,00,000 - 4,50,000",2026-02-10,"Java, JavaScript",Job,java,internshala
+Software Developer,KIDLOLAND KIDS & TODDLER GAMES PRIVATE LIMITED,Mumbai,"₹ 2,00,000 - 4,00,000",2026-02-10,"Java, C++ Programming",Job,java,internshala
+Associate Mobile App Developer,Kravvex Fresh Pvt Ltd,Work from home,"₹ 2,00,000 - 4,00,000",2026-02-10,"Java, React, Flutter, REST API, React Native, iOS, Android",Job,java,internshala
+Java Developer,Gomedi9 Healthcare Pvt Ltd,Vadodara,"₹ 2,00,000 - 3,40,000",2026-03-03,"Java, MySQL, JSP, Spring MVC, Spring Framework",Job,java,internshala
+Junior Cloud Infrastructure Engineer/DevOps Trainee,Maachao,Work from home,"₹ 2,00,000 - 2,80,000",2026-03-03,"DNS, Nginx, Linux, Node.js, PostgreSQL, Bash, AWS CloudFormation",Job,java,internshala
+API TECH SUPPORT EXECUTIVE,WhiteBooks,Hyderabad,"₹ 2,00,000 - 2,50,000",2026-02-24,Java,Job,java,internshala
+Computer Teachers,Advanced School Of Computer Information India Private Limited,Navsari,"₹ 2,00,000 - 2,40,000",2026-02-10,"Java, HTML, MS-Office, C++ Programming",Job,java,internshala
+Java Developer,24Coordinates Pvt Ltd,Bangalore,"₹ 2,00,000",2026-02-17,"Java, HTML, JavaScript, JSP, Spring MVC",Job,java,internshala
+Support Engineer,Birlasoft,Work from home,Competitive salary,2026-02-17,,Job,java,internshala
+Oracle Product Configurator,Brace Infotech Private Ltd,Nanakramguda,Competitive salary,2026-02-10,,Job,java,internshala
+Junior Java Developer,Freyr Solutions,Nanakramguda,Competitive salary,2026-03-01,,Job,java,internshala
+Full Stack Engineer,METRIX IT SOLUTIONS INC,Nanakramguda,Competitive salary,2026-03-03,,Job,java,internshala
+Java Full Stack Developer,Stackko.com,Haryana,Competitive salary,2026-03-03,,Job,java,internshala
+Senior Software Engineer,Alacriti,Nanakramguda,Competitive salary,2026-02-17,,Job,java,internshala
+Application Support Engineer,Alight Solutions,Noida,Competitive salary,2026-02-10,,Job,java,internshala
+Senior Software Engineer,Paytm,Noida,Competitive salary,2026-03-03,"Software Testing, DevOps, CI/CD, Software Development Life Cycle (SDLC)",Job,java,internshala
+Java Fullstack Developer,FinSurge,Nagercoil,Competitive salary,2026-03-03,,Job,java,internshala
+Full Stack Developer (Java + Flutter),VectorStack,Bangalore,Competitive salary,2026-02-24,,Job,java,internshala
+Senior Software Engineer,ALIQAN Technologies,Chennai,Competitive salary,2026-02-24,,Job,java,internshala
+Software Engineer (Full Stack),VectorStack,Bangalore,Competitive salary,2026-02-24,,Job,java,internshala
+Java Full Stack Developer,ALIQAN Technologies,Bangalore,Competitive salary,2026-02-10,,Job,java,internshala
+Java Full Stack Developer,Colan Infotech Private Limited,"Chennai, Bangalore",Competitive salary,2026-02-10,,Job,java,internshala
+Senior Software Engineer (Java Developer),ALIQAN Technologies,"Delhi, Haryana, Noida",Competitive salary,2026-02-10,,Job,java,internshala
+Full Stack Developer (Tech Lead),Twixor,Bangalore,Competitive salary,2026-02-10,,Job,java,internshala
+Senior Software Engineer (Backend),MaieuticSemi,Bangalore,Competitive salary,2026-02-10,,Job,java,internshala
+FullStack Developer/ Tech Lead,Twixor,Bangalore,Competitive salary,2026-02-10,,Job,java,internshala
+Sterling OMS Developer,Colan Infotech Private Limited,Chennai,Competitive salary,2026-02-10,,Job,java,internshala
+Mobile App Development,Shoonyansh Pvt. Ltd.,Pune,"₹ 7,000 - 7,002 /month",2026-03-03,"Java, Mobile Application Development, iOS, Android, Firebase",Job,java,internshala
+Android App Development,BridgeLogic Software Private Limited,Indore,"₹ 3,000 - 5,000 /month",2026-03-03,"Java, Android, Kotlin",Job,java,internshala
+Mobile App Development,Online Savaari Private Limited,Work from home,"₹ 6,000 - 13,000 /month",2026-03-03,"Java, Xcode, Swift, Flutter, REST API, React Native, iOS",Job,java,internshala
+Problem Setter – Data Structures & Algorithms,CipherSchools,Work from home,"₹ 10,000 - 15,000 /month",2026-02-17,"Java, Algorithms, Data Structures, Creative Writing, Analytical Thinking, Problem Solving, C++ Programming",Job,java,internshala
+Full Stack Development,Webaxis Software Services,Work from home,"₹ 5,000 - 16,000 /month",2026-02-17,"Java, PHP, HTML, CSS, JavaScript, Python, MongoDB",Job,java,internshala
+Backend Development,Gurucool,Jaipur,"₹ 5,000 - 5,001 /month",2026-02-17,"Java, HTML, CSS, MongoDB, Node.js",Job,java,internshala
+Business Development (Sales),Creative Buffer,Mohali,"₹ 10,500 - 14,000 /month",2026-02-10,"Java, HTML, CSS, Negotiation, Strategy, Email Marketing, English Proficiency (Spoken)",Job,java,internshala
+Java Development,Relinns Technologies,"Chandigarh, Mohali","₹ 10,000 - 12,500 /month",2026-02-10,"Java, MySQL, Hibernate ORM(Java), Spring Boot",Job,java,internshala
+Full Stack Development,Neetu M,Work from home,"₹ 10,000 - 12,000 /month",2026-02-10,"Java, HTML, CSS, JavaScript, HTML 5, .NET, ASP.NET",Job,java,internshala
+Zoho Developer,Dinelab Solutions,Nagpur,"₹ 12,000 - 20,000 /month",2026-02-10,"Java, Python, MS-Excel, REST API, Power BI, Deluge",Job,java,internshala
+Mobile App Development,TanPrish Dynamics Private Limited,Kanpur,"₹ 10,000 - 20,000 /month",2026-02-10,"Java, Node.js, Flutter, REST API, iOS, Android, Kotlin",Job,java,internshala
+UI QA Engineer,Innate AI,Work from home,"₹ 3,00,000",2026-02-10,"Git, UI & UX Design, React, TypeScript, Quality Assurance/Quality Control (QA/QC), Software Development Life Cycle (SDLC), Jest",Job,react,internshala
+Dot Net Developer,Sagar Informatics Private Limited,Noida,"₹ 2,40,000",2026-02-10,"JavaScript, jQuery, C#, .NET, ASP.NET, C#.NET, AngularJS",Job,react,internshala
+Full Stack Developer,Inmogic Technologies Private Limited,Bangalore,"₹ 2,00,000 - 4,00,000",2026-02-17,"PHP, MySQL, HTML, CSS, JavaScript, MongoDB, AngularJS",Job,react,internshala
+Business Development Executive,ICreate Media Private Limited,Mohali,"₹ 2,00,000 - 3,86,000",2026-02-10,"Mobile Application Development, Web development, React, React Native, English Proficiency (Spoken), English Proficiency (Written)",Job,react,internshala
+Junior Front End Developer,Iluminr,Work from home,"₹ 2,00,000 - 3,60,000",2026-03-03,"HTML, CSS, Node.js, React, Next.js, Angular",Job,react,internshala
+.NET Developer,Add Pearlinfo Private Limited,"Ahmedabad, Gandhinagar, Nadiad, Gujarat","₹ 2,00,000 - 3,00,000",2026-03-03,"MySQL, HTML, CSS, JavaScript, C#, .NET, ASP.NET",Job,react,internshala
+Web Developer,Isha Advertising,Delhi,"₹ 2,00,000 - 3,00,000",2026-02-17,"PHP, MySQL, HTML, CSS, WordPress, Node.js, React",Job,react,internshala
+Web Developer,NetTech India,Mumbai,"₹ 2,00,000 - 3,00,000",2026-02-10,"HTML, CSS, JavaScript, React",Job,react,internshala
+Full Stack Developer,Saroj Education Group,Delhi,"₹ 2,00,000 - 2,70,000",2026-03-03,"JavaScript, Node.js, React, Next.js",Job,react,internshala
+Full Stack Developer,Stellarmind.ai,Ahmedabad,"₹ 2,00,000 - 2,40,000",2026-02-17,"MySQL, HTML, CSS, JavaScript, MongoDB, Git, AngularJS",Job,react,internshala
+Associate Software Developer,UniteGrid Infocomm,Bangalore,"₹ 2,00,000 - 2,30,000",2026-02-10,"MySQL, HTML, CSS, JavaScript, Node.js, React, Android",Job,react,internshala
+Front End Developer,QuanTech,Work from home,"₹ 2,00,000 - 2,20,000",2026-02-10,"HTML, CSS, JavaScript, Node.js, React, REST API, Next.js",Job,react,internshala
+Web Developer,ThreeTree Biotech Solutions,Work from home,"₹ 2,00,000",2026-02-24,"PHP, MySQL, HTML, CSS, JavaScript, jQuery, WordPress",Job,react,internshala
+Front End Development,JAGATMITRA LEGALSERVICES,Delhi,"₹ 5,000 /month",2026-03-03,"HTML, CSS, JavaScript, Node.js, React, REST API",Job,react,internshala
+Full Stack Development,Eric Web Solutions,Work from home,"₹ 5,000 - 10,000 /month",2026-03-03,"HTML, CSS, JavaScript, Node.js, Express.js, React, REST API",Job,react,internshala
+Web Development,Growify India,Work from home,"₹ 5,000 /month",2026-03-03,"HTML, CSS, JavaScript, MongoDB, Node.js, PostgreSQL, React",Job,react,internshala
+Software Development,STIR,Delhi,"₹ 14,001 - 20,000 /month",2026-03-01,"JavaScript, Node.js, PostgreSQL, React",Job,react,internshala
+ReactJS Development,Educase India,Hyderabad,"₹ 10,000 /month",2026-03-03,"HTML, JavaScript, Node.js, React, REST API, React Native, Redux",Job,react,internshala
+Front End Development,Online Savaari Private Limited,Work from home,"₹ 6,000 - 12,000 /month",2026-03-03,"HTML, CSS, JavaScript, jQuery, Bootstrap, AngularJS, Node.js",Job,react,internshala
+Full Stack Development,Rayeva World Pvt Ltd,Work from home,"₹ 5,000 - 10,000 /month",2026-03-03,"JavaScript, HTML 5, CSS3, Node.js, Mobile Application Development, Web development, Web Design",Job,react,internshala
+Web Development,HEXA SOLUTIONS,Work from home,"₹ 25,000 - 27,500 /month",2026-02-24,"PHP, MySQL, HTML, CSS, JavaScript, jQuery, HTML 5",Job,react,internshala
+Full Stack Development,CipherSchools,"Chandigarh, Delhi, Gurgaon, Noida, Punjab","₹ 20,000 - 25,000 /month",2026-02-24,"JavaScript, HTML 5, CSS3, MongoDB, Node.js, Express.js, React",Job,react,internshala
+React Native/React JS/Node JS,Modulus Seventeen,Bangalore,"₹ 5,100 - 9,000 /month",2026-02-24,"Node.js, React, React Native",Job,react,internshala
+ReactJS Development,Varsity Pro,Delhi,"₹ 7,000 - 10,000 /month",2026-02-24,"JavaScript, Node.js, React, REST API, Redux",Job,react,internshala
+QA Testing,BharatGo,Pune,"₹ 5,000 - 10,000 /month",2026-02-24,"Software Testing, Data Structures, Manual Testing, React, Cypress, Test Automation, Usability Testing",Job,react,internshala
+Front End Development,Zorvyn,Work from home,"₹ 35,000 /month",2026-02-24,"HTML, CSS, JavaScript, React",Job,react,internshala
+Full Stack Development,BharatGo,Pune,"₹ 5,000 - 10,000 /month",2026-02-24,"JavaScript, Node.js, PostgreSQL, GitHub, React, Amazon Web Services (AWS), Next.js",Job,react,internshala
+Full Stack Development,NewZenAlpha Tech,Bangalore,"₹ 17,000 - 21,000 /month",2026-02-17,"MySQL, JavaScript, Python, Node.js, UI & UX Design, React, TypeScript",Job,react,internshala
+Mobile App Development,Gurucool,Jaipur,"₹ 10,000 /month",2026-02-17,"JavaScript, React, React Native, Android",Job,react,internshala
+Front End Development,Gurucool,Jaipur,"₹ 5,000 - 5,001 /month",2026-02-17,"HTML, CSS, JavaScript, React, Next.js",Job,react,internshala
+Full Stack Development,Reputation Roots,Gurgaon,"₹ 5,000 - 15,000 /month",2026-02-10,"PHP, MySQL, HTML, CSS, JavaScript, Python, WordPress",Job,react,internshala
+Full Stack Development,VENTU RENEWABLE P.L.,Work from home,"₹ 3,000 - 15,000 /month",2026-02-10,"MySQL, Node.js, Express.js, React, TypeScript, Prisma ORM",Job,react,internshala
+Software Development,TheVentureForge,Bangalore,"₹ 25,000 /month",2026-02-10,"Python, React, Golang, TypeScript",Job,react,internshala
+Product Management,Relinns Technologies,"Mohali, Chandigarh","₹ 10,000 /month",2026-02-10,"PHP, MySQL, Python, UI & UX Design, Product Management, React, Object Oriented Programming (OOP)",Job,react,internshala
+Front End Development,Maximl Labs Private Limited,Bangalore,"₹ 25,000 - 30,000 /month",2026-02-10,"HTML, CSS, JavaScript, Bootstrap, Git, React, REST API",Job,react,internshala
+Software Development,Arkahub,Bangalore,"₹ 20,000 - 30,000 /month",2026-02-10,"Node.js, React",Job,react,internshala
+React + TypeScript Developer (Hybrid),Giftinguru,"Delhi, Noida, Ghaziabad, Vasundhra","₹ 5,000 - 10,000 /month",2026-02-10,"SQL, Frontend development, React, Backend development, TypeScript",Job,react,internshala
+Software Development,Deep Ecominsight Private Limited,Pune,"₹ 10,000 - 15,000 /month",2026-02-10,"HTML, CSS, JavaScript, Node.js, React, TypeScript",Job,react,internshala
+Mobile App Development,Global Groupware Solutions Limited,Work from home,"₹ 25,000 - 35,000 /month",2026-02-10,"JavaScript, React, React Native",Job,react,internshala
+ReactJS Development,Great Future Technology Private Limited,Work from home,"₹ 5,000 - 20,000 /month",2026-03-03,"HTML, React, React Native, Next.js, Angular",Job,react,internshala
+Cloud Engineer,EVENTEXPO - ETS,Chennai,Competitive salary,2026-03-02,,Job,cloud-computing,internshala
+Senior Product Manager,Flexera,Bangalore,Competitive salary,2026-03-01,,Job,cloud-computing,internshala
+Technical Analyst,TEK NINJAS,Nanakramguda,Competitive salary,2026-03-01,,Job,cloud-computing,internshala
+IT Support & Application Executive,Selene Marine Ltd,Chennai,Competitive salary,2026-03-02,,Job,cloud-computing,internshala
+Network Engineer,PeopleHum,Mumbai,"₹ 2,00,000",2026-03-03,"Linux, Networking",Job,cloud-computing,internshala
+Business Development Specialist,Caudate Technologies Private Limited,Thane,"₹ 5,20,000 - 6,20,000",2026-02-24,"Social Media Marketing, Digital Marketing",Job,cloud-computing,internshala
+System Architect – Cloud Platforms & Enterprise Integrations,Cosy Farms,Mumbai,"₹ 4,00,000 - 6,00,000",2026-03-03,"Amazon Web Services (AWS), Google Cloud Platforms (GCP)",Job,cloud-computing,internshala
+System Engineer II,CareerZgraph,Work from home,"₹ 35,00,000 - 40,00,000",2026-02-24,,Job,cloud-computing,internshala
+Senior Cloud Native Architect,Jio,Delhi,"₹ 30,00,000 - 50,00,000",2026-02-10,,Job,cloud-computing,internshala
+Senior Site Reliability Engineer (SRE),ALIQAN Technologies,Bangalore,"₹ 25,00,000 - 35,00,000",2026-02-17,,Job,cloud-computing,internshala
+"Sales Manager (Cloud Consulting, Direct Sales)",TalentXO,Mumbai,"₹ 9,00,000 - 12,00,000",2026-02-10,"Cloud Computing, Negotiation, Presentation skills, B2B Sales, Microsoft Azure, Client Relationship, Interpersonal skills",Job,cloud-computing,internshala
+DevOps Engineer,NEC Corporation India Private Limited,Noida,"₹ 4,00,000 - 5,00,000",2026-03-03,"Linux, Docker, Linux Administration, Kubernetes",Job,cloud-computing,internshala
+Cyber Security Specialist,Adaptive Cyber Labs Private Limited,Work from home,"₹ 3,00,000 - 3,60,000",2026-02-24,"Ethical Hacking, Network Security, VAPT, Web Application Security, Cloud security",Job,cloud-computing,internshala
+Windows System Administrator,Diadem Technologies Private Limited,Kolkata,"₹ 2,00,000 - 4,50,000",2026-02-10,"MS SQL Server, SYSTEM ADMINISTRATOR, VMware, Powershell",Job,cloud-computing,internshala
+Cloud Sales (Azure),ThoughtSol Infotech Ltd.,Noida,Competitive salary,2026-03-01,,Job,cloud-computing,internshala
+Cloud Infra Support Engineer,Abacus.AI,Work from home,Competitive salary,2026-03-03,,Job,cloud-computing,internshala
+Power Platform Developer - +2 Years - Full Remote - Contractor In USD,All European Careers,Chennai,Competitive salary,2026-03-03,,Job,cloud-computing,internshala
+Data Engineer,HashedIn By Deloitte,Bangalore,Competitive salary,2026-03-03,,Job,cloud-computing,internshala
+SAP Certified Freshers,IDWTeam,Nanakramguda,Competitive salary,2026-03-03,,Job,cloud-computing,internshala
+Oracle Analytics Cloud,Innova ESI,Chennai,Competitive salary,2026-03-03,,Job,cloud-computing,internshala
+Cloud Engineer,METRIX IT SOLUTIONS INC,Nanakramguda,Competitive salary,2026-03-03,,Job,cloud-computing,internshala
+Trainer - Cloud Engineering,AkumenbyQ,Work from home,Competitive salary,2026-03-03,,Job,cloud-computing,internshala
+Product Security Engineer,Insight Global,Work from home,Competitive salary,2026-03-03,,Job,cloud-computing,internshala
+Data Engineer,Papa Johns Global Capability Center,Work from home,Competitive salary,2026-03-03,,Job,cloud-computing,internshala
+Data Engineer,SMC Squared India,Work from home,Competitive salary,2026-03-03,,Job,cloud-computing,internshala
+Data Engineer,Recro,Work from home,Competitive salary,2026-03-03,,Job,cloud-computing,internshala
+SAP BASIS Consultant,KPMG India,Bangalore,Competitive salary,2026-03-03,,Job,cloud-computing,internshala
+Microsoft Enterprise Administrator,Olea,Nanakramguda,Competitive salary,2026-02-24,,Job,cloud-computing,internshala
+Azure Cloud Engineer (L2 / L3  Operations & Support),Atomic North,Work from home,Competitive salary,2026-02-24,,Job,cloud-computing,internshala
+Site Reliability Engineer - DevOps,Qualys,Maharashtra,Competitive salary,2026-02-24,,Job,cloud-computing,internshala
+Support Engineer,"MaxVal Group, Inc.",Work from home,Competitive salary,2026-02-24,,Job,cloud-computing,internshala
+Big Data Factory ProdOps Engineer,IQVIA,Bangalore,Competitive salary,2026-02-24,,Job,cloud-computing,internshala
+SQL Database Administrator - Sonata Software - Bangalore / Hyderabad,Sonata Software,Bangalore,Competitive salary,2026-02-24,,Job,cloud-computing,internshala
+Pre-Sales Technical Consultant,INFIMATRIX Technologies Pvt Ltd,Maharashtra,Competitive salary,2026-02-24,,Job,cloud-computing,internshala
+Security Engineer,Signzy,Bangalore,Competitive salary,2026-02-17,,Job,cloud-computing,internshala
+Product Manager,MiQ,Bangalore,Competitive salary,2026-02-17,,Job,cloud-computing,internshala
+Cloud Automation Engineer,Seclore,Maharashtra,Competitive salary,2026-02-17,,Job,cloud-computing,internshala
+Geographic Information Systems Analyst,Cybertech Systems & Software Limited Thane W,Maharashtra,Competitive salary,2026-02-17,,Job,cloud-computing,internshala
+System Engineer,QualityKiosk Technologies,Maharashtra,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Data Engineer,JMAN Group,Chennai,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Database Administrator,PTC,Haryana,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Technical Support Engineer,Azilen Technologies,Ahmedabad,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Technical Support Engineer,Softcell Technologies Global Pvt. Ltd.,Chennai,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Associate Prod Support (India),Thakral One,Work from home,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Data & Automation Analyst (AWS & Cloud Data),Times Music,Work from home,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Saviynt,Deloitte,Bangalore,Competitive salary,2026-03-03,,Job,cloud-computing,internshala
+Data Engineer,EXL,Haryana,Competitive salary,2026-03-03,,Job,cloud-computing,internshala
+Python Engineer,Time Charge N Go,Nanakramguda,Competitive salary,2026-03-03,,Job,cloud-computing,internshala
+Python Developer,Atyeti Inc,Nanakramguda,Competitive salary,2026-02-24,,Job,cloud-computing,internshala
+Python & Devops Developer,PlusWealth Capital Management LLP,Haryana,Competitive salary,2026-02-24,,Job,cloud-computing,internshala
+Senior DevOps Engineer,Seclore,Maharashtra,Competitive salary,2026-02-17,,Job,cloud-computing,internshala
+Software Engineer,ValueMomentum,Nanakramguda,Competitive salary,2026-02-17,,Job,cloud-computing,internshala
+Data Engineer,Acuity Analytics,Work from home,Competitive salary,2026-02-17,,Job,cloud-computing,internshala
+Cloud Support Engineer [T500-23062],ANSR,Bangalore,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+SRE Engineer: Design Mission Critical Cloud Infrastructure For Global Enterprises,Mindstix Software Labs,Maharashtra,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Senior Snowflake Developer,ALIQAN Technologies,Work from home,Competitive salary,2026-03-03,,Job,cloud-computing,internshala
+Security Engineer,Jio,"Assam, Delhi",Competitive salary,2026-03-03,,Job,cloud-computing,internshala
+Database Architect,Jio,"Delhi, Maharashtra, Bangalore",Competitive salary,2026-02-24,,Job,cloud-computing,internshala
+Senior Technical Architect,Colan Infotech Private Limited,Chennai,Competitive salary,2026-02-24,,Job,cloud-computing,internshala
+Technical Operations Manager,Intertec Softwares Pvt Ltd,Arab (United States),Competitive salary,2026-02-17,,Job,cloud-computing,internshala
+Cloud Architect,Colan Infotech Private Limited,"Chennai, Bangalore",Competitive salary,2026-02-17,,Job,cloud-computing,internshala
+Red Hat OpenStack Engineer,Jio,"Assam, Odisha",Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Cloud-Openstack,Jio,"Assam, Maharashtra",Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+OpenStack,Jio,"Assam, Delhi",Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Senior Back-end Engineer,Trigyn Technologies,Work from home,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Security Engineer,Jio,Delhi,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Technical Network Engineer,NETSACH GLOBAL,Bangalore,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Data Engineer,Colan Infotech Private Limited,Bangalore,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+DevOps Engineer,Techblocks,Hyderabad,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+DevOps Engineer,Twixor,"Chengam, Bangalore",Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Commvault Backup Administrator,Intertec Softwares Pvt Ltd,Arab (United States),Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Technical Architect,Colan Infotech Private Limited,"Chennai, Bangalore",Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+DBA Architect,Colan Infotech Private Limited,Chennai,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Consultant ITSM,Intertec Softwares Pvt Ltd,Navi Mumbai,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+DevOps Engineer And DB Developer,Twixor,Bangalore,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+VMware & Windows Specialist,Intertec Softwares Pvt Ltd,Arab (United States),Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Sr. Product Manager  Compute Infrastructure,Intertec Softwares Pvt Ltd,Arab (United States),Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+IT Infrastructure Analyst - Linux Admin,Intertec Softwares Pvt Ltd,Indore,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Software Engineer,Randstad Digital,Hyderabad,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+SQL Server DBA,Intertec Softwares Pvt Ltd,Indore,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Technical Specialist  Monitoring Tools,Intertec Softwares Pvt Ltd,Indore,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Team Lead (IT Infrastructure Monitoring),Intertec Softwares Pvt Ltd,Indore,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Storage Admin L2/L3 : Reliance Jio : Guwahati,Jio,Guwahati,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Windows + Vmware,Jio,"Assam, Chennai",Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+OpenShift & Linux Administrator,Intertec Softwares Pvt Ltd,Arab (United States),Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Azure Infrastructure Automation Engineer,ALIQAN Technologies,Noida,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Database Cloud Architect,Jio,"Delhi, Maharashtra, Bangalore",Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Cloud Engineer,Jio,Bhubaneswar,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Storage & Backup Support Engineer,Jio,"Assam, Delhi, Haryana",Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Security Engineer (L3),Jio,Guwahati,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+AWS DevOps Engineer,Huemn,Hyderabad,Competitive salary,2026-02-10,,Job,cloud-computing,internshala
+Linux Admin & Devops,TwinLine Business Solutions Private Limited,Gurgaon,"₹ 15,000 /month +  Incentives",2026-03-03,"Linux, MS SQL Server, Amazon Web Services (AWS), SOC, DevOps, Security tools",Job,cloud-computing,internshala
+Cloud Computing,Zorvyn,Work from home,"₹ 40,000 /month",2026-02-17,"Cloud Computing, Microsoft Azure, Amazon Web Services (AWS)",Job,cloud-computing,internshala
+Technical Support Engineer - Security,CAVITAK,Ahmedabad,Competitive salary,2026-02-10,,Job,android-development,internshala
+Magento Lead,Colan Infotech Private Limited,Chennai,Competitive salary,2026-02-17,,Job,android-development,internshala
+QA Engineer 2,SuperAGI,Work from home,Competitive salary,2026-02-17,,Job,android-development,internshala
+Quality Assurance Engineer,Arcana,Coimbatore,Competitive salary,2026-02-10,,Job,android-development,internshala
+Sales Executive (IT Hardware/Software),AxureOne,Mumbai,"₹ 3,00,000 - 4,20,000",2026-02-10,,Job,android-development,internshala
+Firmware Engineer,Cabcon Technologies Private Limited,Kolkata,Competitive salary,2026-02-10,,Job,android-development,internshala
+Junior Tester,HCLTech,Noida,Competitive salary,2026-02-10,,Job,android-development,internshala
+Software Engineer,PLS Pte Ltd,Work from home,Competitive salary,2026-02-10,,Job,android-development,internshala
+Senior Dot Net Developer,Ultrafly Solutions Private Limited,Bangalore,Competitive salary,2026-02-10,,Job,android-development,internshala
+Node.js  Developer,Huemn,Hyderabad,Competitive salary,2026-02-10,,Job,android-development,internshala
+Chatbot Developer,Twixor,Chennai,Competitive salary,2026-02-10,,Job,android-development,internshala
+Alteryx Developer,ALIQAN Technologies,Work from home,Competitive salary,2026-02-10,,Job,android-development,internshala
+ServiceNow Developer,ALIQAN Technologies,"Chennai, Delhi, Maharashtra, Bangalore, Nanakramguda",Competitive salary,2026-02-10,,Job,android-development,internshala
+Firmware Engineer,ANVAYA,Chennai,"₹ 20,00,000 - 35,00,000",2026-02-10,,Job,android-development,internshala
+MERN Full Stack Developer,TheCodersHub,Work from home,Competitive salary,2026-02-10,"MongoDB, React.Js, Express",Job,android-development,internshala
+Technical Delivery / Project Coordination Intern (Scrum & QA Focus),TheCodersHub,Work from home,Competitive salary,2026-02-10,"Product Management, Product Design",Job,android-development,internshala
+QA & Support Engineer,AccelPro,Noida,Competitive salary,2026-02-10,,Job,android-development,internshala
+Quality Assurance Engineer,Blue Horizons Strategic Engineering Pvt Ltd,Hyderabad,Competitive salary,2026-02-10,,Job,android-development,internshala
+Support Administrator,Lexitas,Work from home,Competitive salary,2026-02-10,,Job,android-development,internshala
+iOS App Developer,Waynix,Work from home,"₹ 5,00,000 - 10,00,000",2026-02-17,Swift,Job,android-development,internshala
+Frontend Software Engineer  II,Precision Medicine Group,Maharashtra,Competitive salary,2026-02-10,,Job,android-development,internshala
+Security Tools Specialist,Jio,Delhi,Competitive salary,2026-02-10,,Job,android-development,internshala
+PGT Computer Science Teacher (HOD),The Newtown School.,Pargana,Competitive salary,2026-02-10,Teaching,Job,android-development,internshala
+React JS Developer,Huemn,Hyderabad,Competitive salary,2026-02-10,,Job,android-development,internshala
+Presales Consultant - Security(kSA),Intertec Softwares Pvt Ltd,Arabia (Colombia),Competitive salary,2026-02-10,,Job,android-development,internshala
+ReactJS Developers,Twixor,Bangalore,Competitive salary,2026-02-10,,Job,android-development,internshala
+PGT Computer Science,Starling International School,Pargana,"₹ 3,20,000 - 4,00,000",2026-02-10,Teaching,Job,android-development,internshala
